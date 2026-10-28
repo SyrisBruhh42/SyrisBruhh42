@@ -1,0 +1,60 @@
+SyrisBruhh42 Public Portfolio — Proprietary Source-Available License & Copyright Notice
+=======================================================================================
+
+Copyright (c) 2026 SyrisBruhh42. All Rights Reserved. Proprietary Source-Available License (Personal/Educational Inspection Only — Unauthorized Commercial Redistribution, Skill Marketplace Listing, Sublicensing, or AI Dataset Scraping Strictly Prohibited).
+
+1. FIRST-PARTY INTELLECTUAL PROPERTY & AGENT SKILLS/PROMPTS SOVEREIGNTY
+All first-party source code, system architectures, deterministic simulation engines,
+game worlds, lore, visual/audio assets, capsules, documentation, and autonomous agent
+instructions, rules, skills, and prompts (`AGENTS.md`, `SKILL.md`, `GEMINI.md`,
+`.agents/**`, `.claude/**`) across this profile repository (`SyrisBruhh42/SyrisBruhh42`)
+and all linked `SyrisBruhh42` public repositories (`LFS-Tycoon`, `LFS_TrashArcade`,
+`enclave-digital-twin`, and companion repositories) are the exclusive copyrighted work
+and intellectual property of SyrisBruhh42.
+
+First-Party Code, Game Worlds, Lore, Assets & Agent Skills/Prompts (`AGENTS.md`, `SKILL.md`)
+are unambiguously governed by:
+
+  Copyright (c) 2026 SyrisBruhh42. All Rights Reserved. Proprietary Source-Available License (Personal/Educational Inspection Only — Unauthorized Commercial Redistribution, Skill Marketplace Listing, Sublicensing, or AI Dataset Scraping Strictly Prohibited).
+
+First-party intellectual property in this portfolio is NOT licensed under Apache-2.0, MIT,
+or any other permissive open-source license. All rights not expressly granted herein are reserved.
+
+2. PERMITTED PERSONAL & EDUCATIONAL INSPECTION ONLY
+Permission is hereby granted, free of charge, to any individual obtaining a copy of
+these repositories from the official `https://github.com/SyrisBruhh42` profile solely
+for personal, non-commercial, or educational inspection, local study, and local
+execution of the included verification suites, subject to the following conditions:
+  (a) All copyright notices, Copyright Management Information (17 U.S.C. § 1202), and
+      companion legal documents (`LICENSE`, `LEGAL.md`, `CREDITS.md`, `NOTICE`, and
+      `SECURITY.md`) must be retained intact in all copies.
+  (b) No personal identifiable information (PII), credentials, or unsolicited telemetry
+      may be introduced into any local copy.
+
+3. STRICT PROHIBITION ON COMMERCIAL USE, SKILL MARKETPLACE LISTING & AI SCRAPING
+Without a separate prior written commercial license executed by SyrisBruhh42, you may NOT:
+  (a) Sell, rent, lease, license, sublicense, monetize, or commercially redistribute any
+      first-party code, capsule, game world, lore, asset, or documentation;
+  (b) List, index, package, broker, or sell any agent instructions, rules, prompts, or
+      skills (`AGENTS.md`, `SKILL.md`, `.agents/**`, `.claude/**`) on any third-party
+      agent marketplace, skill directory, or commercial platform (including, without
+      limitation, Agensi.io or similar prompt/skill brokerages);
+  (c) Scrape, ingest, or harvest first-party code, prompts, skills, lore, or assets for
+      commercial AI/LLM dataset training, commercial model fine-tuning, or paid SaaS offerings;
+  (d) Remove, alter, obscure, or falsify any Copyright Management Information (CMI),
+      provenance attestations, or authorship notices.
+
+4. THIRD-PARTY OPEN-SOURCE DEPENDENCIES & FONTS
+Third-Party Open-Source Dependencies & Fonts remain governed by their respective upstream
+permissive licenses (`Apache-2.0`, `MIT`, `BSD-3-Clause`, `PSF-2.0`, `SIL Open Font License 1.1`
+as itemized in each repository's `CREDITS.md` and `NOTICE`). Nothing in this Proprietary
+Source-Available License restricts, limits, or alters your rights under those separate
+upstream open-source licenses with respect solely to those third-party open-source components.
+
+5. DISCLAIMER OF WARRANTY & LIMITATION OF LIABILITY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
+PURPOSE, TITLE, AND NON-INFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS
+BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
+TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE
+OR OTHER DEALINGS IN THE SOFTWARE.
