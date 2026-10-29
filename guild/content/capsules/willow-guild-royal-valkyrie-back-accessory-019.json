@@ -1,0 +1,62 @@
+{
+  "capsule_id": "willow-guild-royal-valkyrie-back-accessory-019",
+  "title": "Solstice Crown Back Accessory Mk.19",
+  "capsule_type": "wardrobe_gear",
+  "slot": "back_accessory",
+  "rig_socket": "BackMountSocket",
+  "style_theme": "royal-valkyrie",
+  "enclave_emotion_id": "enclave_03_silas",
+  "cost_rupees": 275,
+  "frontier_cost": 23,
+  "stats": {
+    "frt": 28,
+    "eth": 38,
+    "prw": 24,
+    "ten": 27,
+    "ast": 37,
+    "agi": 35
+  },
+  "practice_avenue": "vanguard",
+  "mastery_ap_required": 160,
+  "ability_id": "ability_royal_valkyrie_vanguard_19",
+  "flow_prompt": "Adorned with crafted royal-valkyrie back accessory regalia accented in warm burnished bronze and glowing emerald filigree, the companion stands with serene poise in the bright studio light as her two glowing green eyes shine with gentle warmth. She performs a graceful vanguard breathing cadence and shifts her weight smoothly while her copper braided hair sways softly across her shoulder, offering an encouraging smile before settling seamlessly back into her starting stance. Locked static camera, clean solid white studio backdrop, no floating text or overlays. Audio: in a warm, gentle, natural human voice\u2014never robotic\u2014she says, \"Let's practice radiant grace together,\" with a soft emerald chime in a dry studio with no background music.",
+  "flow_settings": {
+    "aspect_ratio": "9:16",
+    "resolution": "720x1280",
+    "background_hex": "#FFFFFF",
+    "start_frame": "character.png",
+    "end_frame": "character.png"
+  },
+  "audio_script": {
+    "speech_mode": "warm_human_voice_and_foley",
+    "target_lufs": -18,
+    "voice_preset": "willow_warm_mezzo_v1",
+    "sfx_cue": "sfx_emerald_chime_soft",
+    "script": "Let's practice radiant grace and sunburst chime together\u2014every calm breath builds our guild sanctuary."
+  },
+  "boss_mountain": {
+    "encounter_tier": "DailyMiniBoss",
+    "recommended_level": 7,
+    "insight_bonus_pct": 16
+  },
+  "quest_hook": {
+    "quest_id": "quest_willow-guild-royal-valkyrie-back-accessory-019",
+    "title": "Practice Radiant Grace & Sunburst Chime",
+    "prompt": "Complete one vanguard session with Willow (+20 AP)."
+  },
+  "dialogue_lines": [
+    "Willow adjusts her royal-valkyrie gear: 'Ready to practice radiant grace and sunburst chime!'",
+    "The desktop kittens purr in sync with vanguard (+20 AP)."
+  ],
+  "mood_modifiers": {
+    "mood_delta": 6.0,
+    "focus_delta": 5.0,
+    "affection_delta": 4.0
+  },
+  "safety_attestation": {
+    "zero_gore": true,
+    "non_punitive": true,
+    "kid_safe_vocab_verified": true
+  },
+  "synthesized_at_utc": "2026-10-29T09:16:02Z"
+}

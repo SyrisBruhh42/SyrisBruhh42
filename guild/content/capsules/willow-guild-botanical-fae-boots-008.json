@@ -1,0 +1,62 @@
+{
+  "capsule_id": "willow-guild-botanical-fae-boots-008",
+  "title": "Woodland Sanctuary Boots Mk.8",
+  "capsule_type": "combat_ability",
+  "slot": "boots",
+  "rig_socket": "Shin.L/R, Foot.L/R",
+  "style_theme": "botanical-fae",
+  "enclave_emotion_id": "enclave_08_terra",
+  "cost_rupees": 350,
+  "frontier_cost": 14,
+  "stats": {
+    "frt": 43,
+    "eth": 31,
+    "prw": 19,
+    "ten": 26,
+    "ast": 38,
+    "agi": 40
+  },
+  "practice_avenue": "valiance",
+  "mastery_ap_required": 190,
+  "ability_id": "ability_botanical_fae_valiance_08",
+  "flow_prompt": "Adorned with crafted botanical-fae boots regalia accented in warm burnished bronze and glowing emerald filigree, the companion stands with serene poise in the bright studio light as her two glowing green eyes shine with gentle warmth. She performs a graceful valiance breathing cadence and shifts her weight smoothly while her copper braided hair sways softly across her shoulder, offering an encouraging smile before settling seamlessly back into her starting stance. Locked static camera, clean solid white studio backdrop, no floating text or overlays. Audio: in a warm, gentle, natural human voice\u2014never robotic\u2014she says, \"Let's practice calm focus together,\" with a soft emerald chime in a dry studio with no background music.",
+  "flow_settings": {
+    "aspect_ratio": "9:16",
+    "resolution": "720x1280",
+    "background_hex": "#FFFFFF",
+    "start_frame": "character.png",
+    "end_frame": "character.png"
+  },
+  "audio_script": {
+    "speech_mode": "warm_human_voice_and_foley",
+    "target_lufs": -18,
+    "voice_preset": "willow_warm_mezzo_v1",
+    "sfx_cue": "sfx_emerald_chime_soft",
+    "script": "Let's practice calm focus and gentle dew together\u2014every calm breath builds our guild sanctuary."
+  },
+  "boss_mountain": {
+    "encounter_tier": "GuildPatrol",
+    "recommended_level": 8,
+    "insight_bonus_pct": 16
+  },
+  "quest_hook": {
+    "quest_id": "quest_willow-guild-botanical-fae-boots-008",
+    "title": "Practice Calm Focus & Gentle Dew",
+    "prompt": "Complete one valiance session with Willow (+20 AP)."
+  },
+  "dialogue_lines": [
+    "Willow adjusts her botanical-fae gear: 'Ready to practice calm focus and gentle dew!'",
+    "The desktop kittens purr in sync with valiance (+20 AP)."
+  ],
+  "mood_modifiers": {
+    "mood_delta": 6.0,
+    "focus_delta": 5.0,
+    "affection_delta": 4.0
+  },
+  "safety_attestation": {
+    "zero_gore": true,
+    "non_punitive": true,
+    "kid_safe_vocab_verified": true
+  },
+  "synthesized_at_utc": "2026-10-29T03:46:02Z"
+}

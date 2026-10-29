@@ -1,0 +1,35 @@
+{
+  "capsule_id": "willow-guild-cozy-boba-drone",
+  "title": "Sanctuary Taro Boba Companion Drone",
+  "capsule_type": "wardrobe_gear",
+  "slot": "held_prop",
+  "rig_socket": "WristPropSocket.R",
+  "style_theme": "cozy-tech",
+  "enclave_emotion_id": "enclave_07_willow",
+  "cost_rupees": 250,
+  "frontier_cost": 15,
+  "stats": {
+    "frt": 28,
+    "eth": 22,
+    "prw": 10,
+    "ten": 18,
+    "ast": 20,
+    "agi": 18
+  },
+  "practice_avenue": "resonance",
+  "mastery_ap_required": 130,
+  "ability_id": "ability_sanctuary_boba_refresh",
+  "flow_prompt": "Accompanied by a tiny, adorable dark-charcoal spherical helper drone hovering beside her right hand and carrying a purple taro milk-tea cup with a glowing coral straw, the companion glances warmly at her floating helper. The little charcoal drone performs a cheerful bobbing arc while she gives a relaxed, affectionate eye-smile and a gentle wave of her fingertips, then returns smoothly to her starting pose. Locked static camera, clean solid white studio backdrop, no floating text or overlays. Audio: no speech; a soft, cute two-note chime and the gentle clink of ice cubes in a dry studio with no background music.",
+  "flow_settings": {
+    "aspect_ratio": "9:16",
+    "resolution": "720x1280",
+    "background_hex": "#FFFFFF",
+    "start_frame": "character.png",
+    "end_frame": "character.png"
+  },
+  "audio_script": {
+    "speech_mode": "non_verbal_foley",
+    "target_lufs": -28,
+    "script": "no speech; a soft, cute two-note chime and the gentle clink of ice cubes in a dry studio with no background music."
+  }
+}

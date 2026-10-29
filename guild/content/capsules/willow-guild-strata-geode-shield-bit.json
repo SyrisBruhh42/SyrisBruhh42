@@ -1,0 +1,35 @@
+{
+  "capsule_id": "willow-guild-strata-geode-shield-bit",
+  "title": "StrataPaper Quarry Geode Shield-Bit",
+  "capsule_type": "combat_ability",
+  "slot": "held_prop",
+  "rig_socket": "WristPropSocket.R",
+  "style_theme": "tactical-valkyrie",
+  "enclave_emotion_id": "enclave_03_silas",
+  "cost_rupees": 500,
+  "frontier_cost": 24,
+  "stats": {
+    "frt": 32,
+    "eth": 16,
+    "prw": 24,
+    "ten": 36,
+    "ast": 22,
+    "agi": 12
+  },
+  "practice_avenue": "aegis",
+  "mastery_ap_required": 200,
+  "ability_id": "ability_anvilstone_geode_bastion",
+  "flow_prompt": "Accompanied by a sleek diamond-shaped dark anvilstone and gunmetal shield-bit hovering beside her right wrist with a glowing emerald-and-amber crystalline geode core, the companion raises her forearm in a steady defensive guard. The hovering shield-bit rotates crisply on its vertical axis as her two glowing green eyes focus with calm determination, before she lowers her arm and settles smoothly back into her starting stance. Locked static camera, clean solid white studio backdrop, no floating text or overlays. Audio: no speech; a solid metallic lock click and a quiet crystalline resonance hum in a dry studio with no background music.",
+  "flow_settings": {
+    "aspect_ratio": "9:16",
+    "resolution": "720x1280",
+    "background_hex": "#FFFFFF",
+    "start_frame": "character.png",
+    "end_frame": "character.png"
+  },
+  "audio_script": {
+    "speech_mode": "non_verbal_foley",
+    "target_lufs": -28,
+    "script": "no speech; a solid metallic lock click and a quiet crystalline resonance hum in a dry studio with no background music."
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "capsule_id": "willow-guild-tactical-valkyrie-visor-004",
+  "title": "Aegis Vanguard Visor Mk.4",
+  "capsule_type": "combat_ability",
+  "slot": "visor",
+  "rig_socket": "Head",
+  "style_theme": "tactical-valkyrie",
+  "enclave_emotion_id": "enclave_04_leo",
+  "cost_rupees": 250,
+  "frontier_cost": 26,
+  "stats": {
+    "frt": 31,
+    "eth": 35,
+    "prw": 39,
+    "ten": 30,
+    "ast": 34,
+    "agi": 20
+  },
+  "practice_avenue": "bulwark",
+  "mastery_ap_required": 150,
+  "ability_id": "ability_tactical_valkyrie_bulwark_04",
+  "flow_prompt": "Adorned with crafted tactical-valkyrie visor regalia accented in warm burnished bronze and glowing emerald filigree, the companion stands with serene poise in the bright studio light as her two glowing green eyes shine with gentle warmth. She performs a graceful bulwark breathing cadence and shifts her weight smoothly while her copper braided hair sways softly across her shoulder, offering an encouraging smile before settling seamlessly back into her starting stance. Locked static camera, clean solid white studio backdrop, no floating text or overlays. Audio: in a warm, gentle, natural human voice\u2014never robotic\u2014she says, \"Let's practice resolute poise together,\" with a soft emerald chime in a dry studio with no background music.",
+  "flow_settings": {
+    "aspect_ratio": "9:16",
+    "resolution": "720x1280",
+    "background_hex": "#FFFFFF",
+    "start_frame": "character.png",
+    "end_frame": "character.png"
+  },
+  "audio_script": {
+    "speech_mode": "warm_human_voice_and_foley",
+    "target_lufs": -18,
+    "voice_preset": "willow_warm_mezzo_v1",
+    "sfx_cue": "sfx_emerald_chime_soft",
+    "script": "Let's practice resolute poise and shield cadence together\u2014every calm breath builds our guild sanctuary."
+  },
+  "boss_mountain": {
+    "encounter_tier": "DailyMiniBoss",
+    "recommended_level": 4,
+    "insight_bonus_pct": 16
+  },
+  "quest_hook": {
+    "quest_id": "quest_willow-guild-tactical-valkyrie-visor-004",
+    "title": "Practice Resolute Poise & Shield Cadence",
+    "prompt": "Complete one bulwark session with Willow (+20 AP)."
+  },
+  "dialogue_lines": [
+    "Willow adjusts her tactical-valkyrie gear: 'Ready to practice resolute poise and shield cadence!'",
+    "The desktop kittens purr in sync with bulwark (+20 AP)."
+  ],
+  "mood_modifiers": {
+    "mood_delta": 6.0,
+    "focus_delta": 5.0,
+    "affection_delta": 4.0
+  },
+  "safety_attestation": {
+    "zero_gore": true,
+    "non_punitive": true,
+    "kid_safe_vocab_verified": true
+  },
+  "synthesized_at_utc": "2026-10-29T01:46:02Z"
+}

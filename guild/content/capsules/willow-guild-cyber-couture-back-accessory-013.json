@@ -1,0 +1,62 @@
+{
+  "capsule_id": "willow-guild-cyber-couture-back-accessory-013",
+  "title": "Prism Equalizer Back Accessory Mk.13",
+  "capsule_type": "wardrobe_gear",
+  "slot": "back_accessory",
+  "rig_socket": "BackMountSocket",
+  "style_theme": "cyber-couture",
+  "enclave_emotion_id": "enclave_13_ryn",
+  "cost_rupees": 475,
+  "frontier_cost": 29,
+  "stats": {
+    "frt": 34,
+    "eth": 32,
+    "prw": 30,
+    "ten": 33,
+    "ast": 31,
+    "agi": 29
+  },
+  "practice_avenue": "vanguard",
+  "mastery_ap_required": 240,
+  "ability_id": "ability_cyber_couture_vanguard_13",
+  "flow_prompt": "Adorned with crafted cyber-couture back accessory regalia accented in warm burnished bronze and glowing emerald filigree, the companion stands with serene poise in the bright studio light as her two glowing green eyes shine with gentle warmth. She performs a graceful vanguard breathing cadence and shifts her weight smoothly while her copper braided hair sways softly across her shoulder, offering an encouraging smile before settling seamlessly back into her starting stance. Locked static camera, clean solid white studio backdrop, no floating text or overlays. Audio: in a warm, gentle, natural human voice\u2014never robotic\u2014she says, \"Let's practice harmonic flow together,\" with a soft emerald chime in a dry studio with no background music.",
+  "flow_settings": {
+    "aspect_ratio": "9:16",
+    "resolution": "720x1280",
+    "background_hex": "#FFFFFF",
+    "start_frame": "character.png",
+    "end_frame": "character.png"
+  },
+  "audio_script": {
+    "speech_mode": "warm_human_voice_and_foley",
+    "target_lufs": -18,
+    "voice_preset": "willow_warm_mezzo_v1",
+    "sfx_cue": "sfx_emerald_chime_soft",
+    "script": "Let's practice harmonic flow and crystal pulse together\u2014every calm breath builds our guild sanctuary."
+  },
+  "boss_mountain": {
+    "encounter_tier": "DailyMiniBoss",
+    "recommended_level": 1,
+    "insight_bonus_pct": 16
+  },
+  "quest_hook": {
+    "quest_id": "quest_willow-guild-cyber-couture-back-accessory-013",
+    "title": "Practice Harmonic Flow & Crystal Pulse",
+    "prompt": "Complete one vanguard session with Willow (+20 AP)."
+  },
+  "dialogue_lines": [
+    "Willow adjusts her cyber-couture gear: 'Ready to practice harmonic flow and crystal pulse!'",
+    "The desktop kittens purr in sync with vanguard (+20 AP)."
+  ],
+  "mood_modifiers": {
+    "mood_delta": 6.0,
+    "focus_delta": 5.0,
+    "affection_delta": 4.0
+  },
+  "safety_attestation": {
+    "zero_gore": true,
+    "non_punitive": true,
+    "kid_safe_vocab_verified": true
+  },
+  "synthesized_at_utc": "2026-10-29T06:16:02Z"
+}

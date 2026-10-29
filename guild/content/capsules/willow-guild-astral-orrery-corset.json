@@ -1,0 +1,35 @@
+{
+  "capsule_id": "willow-guild-astral-orrery-corset",
+  "title": "Chrono-Arcana Sapphire & Brass Corset Gown",
+  "capsule_type": "wardrobe_gear",
+  "slot": "chassis_dress",
+  "rig_socket": "Spine, Chest, SkirtRing",
+  "style_theme": "astral-clockwork",
+  "enclave_emotion_id": "enclave_12_elias",
+  "cost_rupees": 250,
+  "frontier_cost": 20,
+  "stats": {
+    "frt": 22,
+    "eth": 26,
+    "prw": 12,
+    "ten": 24,
+    "ast": 30,
+    "agi": 14
+  },
+  "practice_avenue": "bulwark",
+  "mastery_ap_required": 150,
+  "ability_id": "ability_pendulum_ward_barrier",
+  "flow_prompt": "Dressed in a midnight-sapphire velvet coat-dress armored with etched antique-brass clockwork corset plates and golden constellation embroidery along the dark-rimmed pleated skirt, the companion shifts her weight in a poised, graceful arc. The rich sapphire velvet pleats drape and sway softly while warm studio light catches the burnished brass filigree at her waist, and she eases smoothly back into her starting pose. Locked static camera, clean solid white studio backdrop, no floating text or overlays. Audio: no speech; the soft, rich rustle of heavy velvet fabric and a quiet pocket-watch tick in a dry studio with no background music.",
+  "flow_settings": {
+    "aspect_ratio": "9:16",
+    "resolution": "720x1280",
+    "background_hex": "#FFFFFF",
+    "start_frame": "character.png",
+    "end_frame": "character.png"
+  },
+  "audio_script": {
+    "speech_mode": "non_verbal_foley",
+    "target_lufs": -28,
+    "script": "no speech; the soft, rich rustle of heavy velvet fabric and a quiet pocket-watch tick in a dry studio with no background music."
+  }
+}

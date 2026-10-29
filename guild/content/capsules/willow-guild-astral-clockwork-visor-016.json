@@ -1,0 +1,62 @@
+{
+  "capsule_id": "willow-guild-astral-clockwork-visor-016",
+  "title": "Chrono Orrery Visor Mk.16",
+  "capsule_type": "combat_ability",
+  "slot": "visor",
+  "rig_socket": "Head",
+  "style_theme": "astral-clockwork",
+  "enclave_emotion_id": "enclave_16_elara",
+  "cost_rupees": 200,
+  "frontier_cost": 14,
+  "stats": {
+    "frt": 43,
+    "eth": 23,
+    "prw": 27,
+    "ten": 42,
+    "ast": 22,
+    "agi": 32
+  },
+  "practice_avenue": "bulwark",
+  "mastery_ap_required": 130,
+  "ability_id": "ability_astral_clockwork_bulwark_16",
+  "flow_prompt": "Adorned with crafted astral-clockwork visor regalia accented in warm burnished bronze and glowing emerald filigree, the companion stands with serene poise in the bright studio light as her two glowing green eyes shine with gentle warmth. She performs a graceful bulwark breathing cadence and shifts her weight smoothly while her copper braided hair sways softly across her shoulder, offering an encouraging smile before settling seamlessly back into her starting stance. Locked static camera, clean solid white studio backdrop, no floating text or overlays. Audio: in a warm, gentle, natural human voice\u2014never robotic\u2014she says, \"Let's practice steady tempo together,\" with a soft emerald chime in a dry studio with no background music.",
+  "flow_settings": {
+    "aspect_ratio": "9:16",
+    "resolution": "720x1280",
+    "background_hex": "#FFFFFF",
+    "start_frame": "character.png",
+    "end_frame": "character.png"
+  },
+  "audio_script": {
+    "speech_mode": "warm_human_voice_and_foley",
+    "target_lufs": -18,
+    "voice_preset": "willow_warm_mezzo_v1",
+    "sfx_cue": "sfx_emerald_chime_soft",
+    "script": "Let's practice steady tempo and brass pendulum together\u2014every calm breath builds our guild sanctuary."
+  },
+  "boss_mountain": {
+    "encounter_tier": "DailyMiniBoss",
+    "recommended_level": 4,
+    "insight_bonus_pct": 16
+  },
+  "quest_hook": {
+    "quest_id": "quest_willow-guild-astral-clockwork-visor-016",
+    "title": "Practice Steady Tempo & Brass Pendulum",
+    "prompt": "Complete one bulwark session with Willow (+20 AP)."
+  },
+  "dialogue_lines": [
+    "Willow adjusts her astral-clockwork gear: 'Ready to practice steady tempo and brass pendulum!'",
+    "The desktop kittens purr in sync with bulwark (+20 AP)."
+  ],
+  "mood_modifiers": {
+    "mood_delta": 6.0,
+    "focus_delta": 5.0,
+    "affection_delta": 4.0
+  },
+  "safety_attestation": {
+    "zero_gore": true,
+    "non_punitive": true,
+    "kid_safe_vocab_verified": true
+  },
+  "synthesized_at_utc": "2026-10-29T07:46:02Z"
+}

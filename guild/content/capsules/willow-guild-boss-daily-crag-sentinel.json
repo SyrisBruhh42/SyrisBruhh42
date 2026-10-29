@@ -1,0 +1,35 @@
+{
+  "capsule_id": "willow-guild-boss-daily-crag-sentinel",
+  "title": "Daily Mini-Boss: Obsidian Crag Sentinel",
+  "capsule_type": "mini_boss_mountain",
+  "slot": "chassis_dress",
+  "rig_socket": "Spine, Chest, SkirtRing",
+  "style_theme": "tactical-valkyrie",
+  "enclave_emotion_id": "enclave_02_jane",
+  "cost_rupees": 25,
+  "frontier_cost": 45,
+  "stats": {
+    "frt": 45,
+    "eth": 20,
+    "prw": 32,
+    "ten": 34,
+    "ast": 24,
+    "agi": 22
+  },
+  "practice_avenue": "aegis",
+  "mastery_ap_required": 150,
+  "ability_id": "boss_mountain_daily_crag_sentinel",
+  "flow_prompt": "Armored in sleek dark-titanium and bronze valkyrie cuirass plates with glowing emerald reactor seams, the companion steps into a balanced martial stance as she squares her shoulders toward a mountain trial. She raises her right fist across her heart in a resolute knightly salute while her two glowing green eyes shine with calm courage, then exhales softly and eases smoothly back into her starting pose. Locked static camera, clean solid white studio backdrop, no floating text or overlays. Audio: in a warm, confident, natural human voice\u2014never robotic\u2014she says, \"Let's test our mettle,\" with a crisp armor click in a dry studio with no background music.",
+  "flow_settings": {
+    "aspect_ratio": "9:16",
+    "resolution": "720x1280",
+    "background_hex": "#FFFFFF",
+    "start_frame": "character.png",
+    "end_frame": "character.png"
+  },
+  "audio_script": {
+    "speech_mode": "warm_human_voice_and_foley",
+    "target_lufs": -18,
+    "script": "in a warm, confident, natural human voice\u2014never robotic\u2014she says, \"Let's test our mettle,\" with a crisp armor click in a dry studio with no background music."
+  }
+}

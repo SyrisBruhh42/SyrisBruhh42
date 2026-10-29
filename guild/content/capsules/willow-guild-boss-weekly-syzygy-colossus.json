@@ -1,0 +1,35 @@
+{
+  "capsule_id": "willow-guild-boss-weekly-syzygy-colossus",
+  "title": "Weekly Big-Boss: Astral Syzygy Chronos Colossus",
+  "capsule_type": "big_boss_mountain",
+  "slot": "back_accessory",
+  "rig_socket": "BackMountSocket",
+  "style_theme": "royal-valkyrie",
+  "enclave_emotion_id": "enclave_10_isla",
+  "cost_rupees": 100,
+  "frontier_cost": 100,
+  "stats": {
+    "frt": 80,
+    "eth": 55,
+    "prw": 52,
+    "ten": 60,
+    "ast": 58,
+    "agi": 40
+  },
+  "practice_avenue": "vanguard",
+  "mastery_ap_required": 350,
+  "ability_id": "boss_mountain_weekly_syzygy_colossus",
+  "flow_prompt": "Framed by a grand concentric antique-bronze and obsidian sun-wheel astrolabe ring suspended behind her shoulders with glowing golden star-runes, the companion draws herself up onto the balls of her feet in triumphant readiness. She pumps both fists at chest height as the bronze dorsal rings turn in a majestic arc and her two glowing green eyes beam with radiant determination, then settles smoothly back into her starting stance. Locked static camera, clean solid white studio backdrop, no floating text or overlays. Audio: in a bright, inspiring, natural human voice\u2014never robotic\u2014she cheers, \"Together to the summit!\" with a warm brass chime in a dry studio with no background music.",
+  "flow_settings": {
+    "aspect_ratio": "9:16",
+    "resolution": "720x1280",
+    "background_hex": "#FFFFFF",
+    "start_frame": "character.png",
+    "end_frame": "character.png"
+  },
+  "audio_script": {
+    "speech_mode": "warm_human_voice_and_foley",
+    "target_lufs": -18,
+    "script": "in a bright, inspiring, natural human voice\u2014never robotic\u2014she cheers, \"Together to the summit!\" with a warm brass chime in a dry studio with no background music."
+  }
+}

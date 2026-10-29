@@ -1,0 +1,35 @@
+{
+  "capsule_id": "willow-guild-aegis-valkyrie-crest",
+  "title": "Aegis Valkyrie Emerald Wing Crest",
+  "capsule_type": "wardrobe_gear",
+  "slot": "headpiece",
+  "rig_socket": "CrownSocket",
+  "style_theme": "tactical-valkyrie",
+  "enclave_emotion_id": "enclave_04_leo",
+  "cost_rupees": 250,
+  "frontier_cost": 18,
+  "stats": {
+    "frt": 25,
+    "eth": 10,
+    "prw": 22,
+    "ten": 18,
+    "ast": 12,
+    "agi": 14
+  },
+  "practice_avenue": "vanguard",
+  "mastery_ap_required": 120,
+  "ability_id": "ability_emerald_wing_cleave",
+  "flow_prompt": "Wearing a sculpted dark-titanium and gunmetal winged valkyrie crest helm piece with glowing emeraldfeather blades between her bronze horns, the companion lifts her chin with confident, heroic poise as her two glowing green eyes shine brightly in the clean studio light. She shifts her weight onto her front foot in a poised knightly readiness stance, gives a warm, reassuring nod as the dark-rimmed emerald crest feathers catch the light, and settles smoothly back into her starting pose. Locked static camera, clean solid white studio backdrop, no floating text or overlays. Audio: no speech; a crisp metallic latch click and soft breath in a dry studio with no background music.",
+  "flow_settings": {
+    "aspect_ratio": "9:16",
+    "resolution": "720x1280",
+    "background_hex": "#FFFFFF",
+    "start_frame": "character.png",
+    "end_frame": "character.png"
+  },
+  "audio_script": {
+    "speech_mode": "non_verbal_foley",
+    "target_lufs": -28,
+    "script": "no speech; a crisp metallic latch click and soft breath in a dry studio with no background music."
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "capsule_id": "willow-guild-royal-valkyrie-held-prop-012",
+  "title": "Solstice Crown Held Prop Mk.12",
+  "capsule_type": "combat_ability",
+  "slot": "held_prop",
+  "rig_socket": "WristPropSocket.R",
+  "style_theme": "royal-valkyrie",
+  "enclave_emotion_id": "enclave_12_elias",
+  "cost_rupees": 450,
+  "frontier_cost": 26,
+  "stats": {
+    "frt": 31,
+    "eth": 27,
+    "prw": 23,
+    "ten": 22,
+    "ast": 42,
+    "agi": 36
+  },
+  "practice_avenue": "windrunner",
+  "mastery_ap_required": 230,
+  "ability_id": "ability_royal_valkyrie_windrunner_12",
+  "flow_prompt": "Adorned with crafted royal-valkyrie held prop regalia accented in warm burnished bronze and glowing emerald filigree, the companion stands with serene poise in the bright studio light as her two glowing green eyes shine with gentle warmth. She performs a graceful windrunner breathing cadence and shifts her weight smoothly while her copper braided hair sways softly across her shoulder, offering an encouraging smile before settling seamlessly back into her starting stance. Locked static camera, clean solid white studio backdrop, no floating text or overlays. Audio: in a warm, gentle, natural human voice\u2014never robotic\u2014she says, \"Let's practice radiant grace together,\" with a soft emerald chime in a dry studio with no background music.",
+  "flow_settings": {
+    "aspect_ratio": "9:16",
+    "resolution": "720x1280",
+    "background_hex": "#FFFFFF",
+    "start_frame": "character.png",
+    "end_frame": "character.png"
+  },
+  "audio_script": {
+    "speech_mode": "warm_human_voice_and_foley",
+    "target_lufs": -18,
+    "voice_preset": "willow_warm_mezzo_v1",
+    "sfx_cue": "sfx_emerald_chime_soft",
+    "script": "Let's practice radiant grace and sunburst chime together\u2014every calm breath builds our guild sanctuary."
+  },
+  "boss_mountain": {
+    "encounter_tier": "GuildPatrol",
+    "recommended_level": 12,
+    "insight_bonus_pct": 16
+  },
+  "quest_hook": {
+    "quest_id": "quest_willow-guild-royal-valkyrie-held-prop-012",
+    "title": "Practice Radiant Grace & Sunburst Chime",
+    "prompt": "Complete one windrunner session with Willow (+20 AP)."
+  },
+  "dialogue_lines": [
+    "Willow adjusts her royal-valkyrie gear: 'Ready to practice radiant grace and sunburst chime!'",
+    "The desktop kittens purr in sync with windrunner (+20 AP)."
+  ],
+  "mood_modifiers": {
+    "mood_delta": 6.0,
+    "focus_delta": 5.0,
+    "affection_delta": 4.0
+  },
+  "safety_attestation": {
+    "zero_gore": true,
+    "non_punitive": true,
+    "kid_safe_vocab_verified": true
+  },
+  "synthesized_at_utc": "2026-10-29T05:46:02Z"
+}

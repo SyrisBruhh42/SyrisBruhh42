@@ -1,0 +1,113 @@
+{
+  "schema": "lfs-willow-guild-vocab-v1",
+  "project_id": "PA-14",
+  "capsule_id": "willow-desktop-pet",
+  "capsule_types": [
+    "wardrobe_gear",
+    "combat_ability",
+    "mini_boss_mountain",
+    "big_boss_mountain"
+  ],
+  "slots": {
+    "back_accessory": {
+      "rig_socket": "BackMountSocket",
+      "z_index": 10
+    },
+    "boots": {
+      "rig_socket": "Shin.L/R, Foot.L/R",
+      "z_index": 30
+    },
+    "chassis_dress": {
+      "rig_socket": "Spine, Chest, SkirtRing",
+      "z_index": 40
+    },
+    "visor": {
+      "rig_socket": "Head",
+      "z_index": 60
+    },
+    "headpiece": {
+      "rig_socket": "CrownSocket",
+      "z_index": 70
+    },
+    "held_prop": {
+      "rig_socket": "WristPropSocket.R",
+      "z_index": 80
+    }
+  },
+  "style_themes": [
+    "cyber-couture",
+    "astral-clockwork",
+    "cozy-tech",
+    "tactical-valkyrie",
+    "royal-valkyrie",
+    "botanical-fae",
+    "street-tech"
+  ],
+  "practice_avenues": {
+    "vanguard": {
+      "primary_stat": "prw",
+      "secondary_stat": "frt",
+      "description": "Physical Prowess & Frontline Strike Mastery"
+    },
+    "valiance": {
+      "primary_stat": "eth",
+      "secondary_stat": "ast",
+      "description": "Etheric Resonance & Harmonic Spellweaving"
+    },
+    "aegis": {
+      "primary_stat": "ten",
+      "secondary_stat": "frt",
+      "description": "Physical Tenacity & Shielded Guard"
+    },
+    "bulwark": {
+      "primary_stat": "ast",
+      "secondary_stat": "ten",
+      "description": "Astral Ward & Telemetry Barrier"
+    },
+    "resonance": {
+      "primary_stat": "frt",
+      "secondary_stat": "eth",
+      "description": "Vital Fortitude & Sanctuary Alchemical Recovery"
+    },
+    "windrunner": {
+      "primary_stat": "agi",
+      "secondary_stat": "prw",
+      "description": "Kinetic Agility & Turn-Cadence Tempo"
+    }
+  },
+  "enclave_emotion_ids": [
+    "enclave_01_hector",
+    "enclave_02_jane",
+    "enclave_03_silas",
+    "enclave_04_leo",
+    "enclave_05_kaio",
+    "enclave_06_zara",
+    "enclave_07_willow",
+    "enclave_08_terra",
+    "enclave_09_orion",
+    "enclave_10_isla",
+    "enclave_11_kenna",
+    "enclave_12_elias",
+    "enclave_13_ryn",
+    "enclave_14_vex",
+    "enclave_15_dorian",
+    "enclave_16_elara"
+  ],
+  "veo_31_prompt_contract": {
+    "word_count_min": 60,
+    "word_count_max": 240,
+    "forbidden_overlay_regex": "digital code|code streams|HUD|ISTP 5w6|enclave_07_willow|character\\.png|A-pose|#FFFFFF|720x1280",
+    "required_flow_settings": {
+      "aspect_ratio": "9:16",
+      "resolution": "720x1280",
+      "background_hex": "#FFFFFF",
+      "start_frame": "character.png",
+      "end_frame": "character.png"
+    },
+    "allowed_speech_modes": [
+      "non_verbal_foley",
+      "warm_human_voice_and_foley"
+    ],
+    "allowed_target_lufs": [-28, -18]
+  }
+}

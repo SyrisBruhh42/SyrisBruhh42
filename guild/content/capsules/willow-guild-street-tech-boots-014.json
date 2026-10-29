@@ -1,0 +1,62 @@
+{
+  "capsule_id": "willow-guild-street-tech-boots-014",
+  "title": "Kinetic Stride Boots Mk.14",
+  "capsule_type": "combat_ability",
+  "slot": "boots",
+  "rig_socket": "Shin.L/R, Foot.L/R",
+  "style_theme": "street-tech",
+  "enclave_emotion_id": "enclave_14_vex",
+  "cost_rupees": 150,
+  "frontier_cost": 32,
+  "stats": {
+    "frt": 37,
+    "eth": 37,
+    "prw": 37,
+    "ten": 44,
+    "ast": 20,
+    "agi": 22
+  },
+  "practice_avenue": "valiance",
+  "mastery_ap_required": 110,
+  "ability_id": "ability_street_tech_valiance_14",
+  "flow_prompt": "Adorned with crafted street-tech boots regalia accented in warm burnished bronze and glowing emerald filigree, the companion stands with serene poise in the bright studio light as her two glowing green eyes shine with gentle warmth. She performs a graceful valiance breathing cadence and shifts her weight smoothly while her copper braided hair sways softly across her shoulder, offering an encouraging smile before settling seamlessly back into her starting stance. Locked static camera, clean solid white studio backdrop, no floating text or overlays. Audio: in a warm, gentle, natural human voice\u2014never robotic\u2014she says, \"Let's practice nimble rhythm together,\" with a soft emerald chime in a dry studio with no background music.",
+  "flow_settings": {
+    "aspect_ratio": "9:16",
+    "resolution": "720x1280",
+    "background_hex": "#FFFFFF",
+    "start_frame": "character.png",
+    "end_frame": "character.png"
+  },
+  "audio_script": {
+    "speech_mode": "warm_human_voice_and_foley",
+    "target_lufs": -18,
+    "voice_preset": "willow_warm_mezzo_v1",
+    "sfx_cue": "sfx_emerald_chime_soft",
+    "script": "Let's practice nimble rhythm and breeze step together\u2014every calm breath builds our guild sanctuary."
+  },
+  "boss_mountain": {
+    "encounter_tier": "GuildPatrol",
+    "recommended_level": 2,
+    "insight_bonus_pct": 16
+  },
+  "quest_hook": {
+    "quest_id": "quest_willow-guild-street-tech-boots-014",
+    "title": "Practice Nimble Rhythm & Breeze Step",
+    "prompt": "Complete one valiance session with Willow (+20 AP)."
+  },
+  "dialogue_lines": [
+    "Willow adjusts her street-tech gear: 'Ready to practice nimble rhythm and breeze step!'",
+    "The desktop kittens purr in sync with valiance (+20 AP)."
+  ],
+  "mood_modifiers": {
+    "mood_delta": 6.0,
+    "focus_delta": 5.0,
+    "affection_delta": 4.0
+  },
+  "safety_attestation": {
+    "zero_gore": true,
+    "non_punitive": true,
+    "kid_safe_vocab_verified": true
+  },
+  "synthesized_at_utc": "2026-10-29T06:46:02Z"
+}

@@ -1,0 +1,35 @@
+{
+  "capsule_id": "willow-guild-street-tech-runner-kicks",
+  "title": "Kinetic Arcade Street-Tech High-Tops",
+  "capsule_type": "wardrobe_gear",
+  "slot": "boots",
+  "rig_socket": "Shin.L/R, Foot.L/R",
+  "style_theme": "street-tech",
+  "enclave_emotion_id": "enclave_01_hector",
+  "cost_rupees": 100,
+  "frontier_cost": 12,
+  "stats": {
+    "frt": 15,
+    "eth": 10,
+    "prw": 18,
+    "ten": 14,
+    "ast": 12,
+    "agi": 32
+  },
+  "practice_avenue": "windrunner",
+  "mastery_ap_required": 100,
+  "ability_id": "ability_arcade_dash_step",
+  "flow_prompt": "Wearing chunky dark-slate and coral-pink technical runner high-top boots with glowing sky-blue cushioned soles and dark gunmetal ankle straps, the companion bounces lightly on the balls of her feet with athletic energy. She performs a crisp, nimble footwork weight shift from left to right while her pleated skirt sways in time and her two glowing green eyes curve into a playful smile, then plants her boots smoothly back in her starting stance. Locked static camera, clean solid white studio backdrop, no floating text or overlays. Audio: no speech; a soft, cushioned sneaker bounce and light floor tap in a dry studio with no background music.",
+  "flow_settings": {
+    "aspect_ratio": "9:16",
+    "resolution": "720x1280",
+    "background_hex": "#FFFFFF",
+    "start_frame": "character.png",
+    "end_frame": "character.png"
+  },
+  "audio_script": {
+    "speech_mode": "non_verbal_foley",
+    "target_lufs": -28,
+    "script": "no speech; a soft, cushioned sneaker bounce and light floor tap in a dry studio with no background music."
+  }
+}

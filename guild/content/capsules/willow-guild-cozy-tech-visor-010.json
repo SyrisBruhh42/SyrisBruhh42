@@ -1,0 +1,62 @@
+{
+  "capsule_id": "willow-guild-cozy-tech-visor-010",
+  "title": "Hearth Lantern Visor Mk.10",
+  "capsule_type": "combat_ability",
+  "slot": "visor",
+  "rig_socket": "Head",
+  "style_theme": "cozy-tech",
+  "enclave_emotion_id": "enclave_10_isla",
+  "cost_rupees": 400,
+  "frontier_cost": 20,
+  "stats": {
+    "frt": 25,
+    "eth": 41,
+    "prw": 33,
+    "ten": 24,
+    "ast": 40,
+    "agi": 26
+  },
+  "practice_avenue": "bulwark",
+  "mastery_ap_required": 210,
+  "ability_id": "ability_cozy_tech_bulwark_10",
+  "flow_prompt": "Adorned with crafted cozy-tech visor regalia accented in warm burnished bronze and glowing emerald filigree, the companion stands with serene poise in the bright studio light as her two glowing green eyes shine with gentle warmth. She performs a graceful bulwark breathing cadence and shifts her weight smoothly while her copper braided hair sways softly across her shoulder, offering an encouraging smile before settling seamlessly back into her starting stance. Locked static camera, clean solid white studio backdrop, no floating text or overlays. Audio: in a warm, gentle, natural human voice\u2014never robotic\u2014she says, \"Let's practice warm comfort together,\" with a soft emerald chime in a dry studio with no background music.",
+  "flow_settings": {
+    "aspect_ratio": "9:16",
+    "resolution": "720x1280",
+    "background_hex": "#FFFFFF",
+    "start_frame": "character.png",
+    "end_frame": "character.png"
+  },
+  "audio_script": {
+    "speech_mode": "warm_human_voice_and_foley",
+    "target_lufs": -18,
+    "voice_preset": "willow_warm_mezzo_v1",
+    "sfx_cue": "sfx_emerald_chime_soft",
+    "script": "Let's practice warm comfort and emerald tea together\u2014every calm breath builds our guild sanctuary."
+  },
+  "boss_mountain": {
+    "encounter_tier": "DailyMiniBoss",
+    "recommended_level": 10,
+    "insight_bonus_pct": 16
+  },
+  "quest_hook": {
+    "quest_id": "quest_willow-guild-cozy-tech-visor-010",
+    "title": "Practice Warm Comfort & Emerald Tea",
+    "prompt": "Complete one bulwark session with Willow (+20 AP)."
+  },
+  "dialogue_lines": [
+    "Willow adjusts her cozy-tech gear: 'Ready to practice warm comfort and emerald tea!'",
+    "The desktop kittens purr in sync with bulwark (+20 AP)."
+  ],
+  "mood_modifiers": {
+    "mood_delta": 6.0,
+    "focus_delta": 5.0,
+    "affection_delta": 4.0
+  },
+  "safety_attestation": {
+    "zero_gore": true,
+    "non_punitive": true,
+    "kid_safe_vocab_verified": true
+  },
+  "synthesized_at_utc": "2026-10-29T04:46:02Z"
+}

@@ -1,0 +1,286 @@
+{
+  "schema": "lfs-willow-guild-seed-capsules-v1",
+  "project_id": "PA-14",
+  "capsules": [
+    {
+      "capsule_id": "willow-guild-aegis-valkyrie-crest",
+      "title": "Aegis Valkyrie Emerald Wing Crest",
+      "capsule_type": "wardrobe_gear",
+      "slot": "headpiece",
+      "rig_socket": "CrownSocket",
+      "style_theme": "tactical-valkyrie",
+      "enclave_emotion_id": "enclave_04_leo",
+      "cost_rupees": 250,
+      "frontier_cost": 18,
+      "stats": { "frt": 25, "eth": 10, "prw": 22, "ten": 18, "ast": 12, "agi": 14 },
+      "practice_avenue": "vanguard",
+      "mastery_ap_required": 120,
+      "ability_id": "ability_emerald_wing_cleave",
+      "flow_prompt": "Wearing a sculpted dark-titanium and gunmetal winged valkyrie crest helm piece with glowing emeraldfeather blades between her bronze horns, the companion lifts her chin with confident, heroic poise as her two glowing green eyes shine brightly in the clean studio light. She shifts her weight onto her front foot in a poised knightly readiness stance, gives a warm, reassuring nod as the dark-rimmed emerald crest feathers catch the light, and settles smoothly back into her starting pose. Locked static camera, clean solid white studio backdrop, no floating text or overlays. Audio: no speech; a crisp metallic latch click and soft breath in a dry studio with no background music.",
+      "flow_settings": {
+        "aspect_ratio": "9:16",
+        "resolution": "720x1280",
+        "background_hex": "#FFFFFF",
+        "start_frame": "character.png",
+        "end_frame": "character.png"
+      },
+      "audio_script": {
+        "speech_mode": "non_verbal_foley",
+        "target_lufs": -28,
+        "script": "no speech; a crisp metallic latch click and soft breath in a dry studio with no background music."
+      }
+    },
+    {
+      "capsule_id": "willow-guild-royal-solstice-diadem",
+      "title": "Royal Solstice Sun-Gold Porcelain Diadem",
+      "capsule_type": "wardrobe_gear",
+      "slot": "headpiece",
+      "rig_socket": "CrownSocket",
+      "style_theme": "royal-valkyrie",
+      "enclave_emotion_id": "enclave_14_vex",
+      "cost_rupees": 500,
+      "frontier_cost": 22,
+      "stats": { "frt": 30, "eth": 28, "prw": 16, "ten": 20, "ast": 26, "agi": 15 },
+      "practice_avenue": "valiance",
+      "mastery_ap_required": 180,
+      "ability_id": "ability_solstice_corona_pulse",
+      "flow_prompt": "Wearing a regal obsidian-black and burnished sun-gold sunburst diadem crown mounted cleanly between her curved bronze horns, the companion stands with serene, royal composure as warm golden studio light glints across the dark-rimmed filigree spikes. She tilts her head in a gracious, courtly greeting while her two glowing green eyes curve into a warm crescent smile and her braided hair sways gently over her shoulder, then eases seamlessly back into her starting pose. Locked static camera, clean solid white studio backdrop, no floating text or overlays. Audio: no speech; a delicate, resonant golden bell chime and soft fabric rustle in a dry studio with no background music.",
+      "flow_settings": {
+        "aspect_ratio": "9:16",
+        "resolution": "720x1280",
+        "background_hex": "#FFFFFF",
+        "start_frame": "character.png",
+        "end_frame": "character.png"
+      },
+      "audio_script": {
+        "speech_mode": "non_verbal_foley",
+        "target_lufs": -28,
+        "script": "no speech; a delicate, resonant golden bell chime and soft fabric rustle in a dry studio with no background music."
+      }
+    },
+    {
+      "capsule_id": "willow-guild-botanical-terrarium-pack",
+      "title": "Genesis Garden Terrarium Wing Frame",
+      "capsule_type": "wardrobe_gear",
+      "slot": "back_accessory",
+      "rig_socket": "BackMountSocket",
+      "style_theme": "botanical-fae",
+      "enclave_emotion_id": "enclave_08_terra",
+      "cost_rupees": 250,
+      "frontier_cost": 16,
+      "stats": { "frt": 35, "eth": 24, "prw": 10, "ten": 20, "ast": 22, "agi": 12 },
+      "practice_avenue": "resonance",
+      "mastery_ap_required": 140,
+      "ability_id": "ability_genesis_dew_mend",
+      "flow_prompt": "Equipped with wrought-copper dragonfly-and-fern wing frames behind her shoulders enclosing a dark-iron hexagonal glass terrarium with a glowing emerald crystal sprout, the companion sways with gentle woodland warmth in the studio light. As she takes a slow, peaceful breath, the copper fern pinions fan outward slightly in a graceful arc and her two glowing green eyes blink warmly before the wing frames settle smoothly back into their starting position. Locked static camera, clean solid white studio backdrop, no floating text or overlays. Audio: no speech; the soft rustle of velvet leaves and a delicate glass terrarium chime in a dry studio with no background music.",
+      "flow_settings": {
+        "aspect_ratio": "9:16",
+        "resolution": "720x1280",
+        "background_hex": "#FFFFFF",
+        "start_frame": "character.png",
+        "end_frame": "character.png"
+      },
+      "audio_script": {
+        "speech_mode": "non_verbal_foley",
+        "target_lufs": -28,
+        "script": "no speech; the soft rustle of velvet leaves and a delicate glass terrarium chime in a dry studio with no background music."
+      }
+    },
+    {
+      "capsule_id": "willow-guild-street-tech-runner-kicks",
+      "title": "Kinetic Arcade Street-Tech High-Tops",
+      "capsule_type": "wardrobe_gear",
+      "slot": "boots",
+      "rig_socket": "Shin.L/R, Foot.L/R",
+      "style_theme": "street-tech",
+      "enclave_emotion_id": "enclave_01_hector",
+      "cost_rupees": 100,
+      "frontier_cost": 12,
+      "stats": { "frt": 15, "eth": 10, "prw": 18, "ten": 14, "ast": 12, "agi": 32 },
+      "practice_avenue": "windrunner",
+      "mastery_ap_required": 100,
+      "ability_id": "ability_arcade_dash_step",
+      "flow_prompt": "Wearing chunky dark-slate and coral-pink technical runner high-top boots with glowing sky-blue cushioned soles and dark gunmetal ankle straps, the companion bounces lightly on the balls of her feet with athletic energy. She performs a crisp, nimble footwork weight shift from left to right while her pleated skirt sways in time and her two glowing green eyes curve into a playful smile, then plants her boots smoothly back in her starting stance. Locked static camera, clean solid white studio backdrop, no floating text or overlays. Audio: no speech; a soft, cushioned sneaker bounce and light floor tap in a dry studio with no background music.",
+      "flow_settings": {
+        "aspect_ratio": "9:16",
+        "resolution": "720x1280",
+        "background_hex": "#FFFFFF",
+        "start_frame": "character.png",
+        "end_frame": "character.png"
+      },
+      "audio_script": {
+        "speech_mode": "non_verbal_foley",
+        "target_lufs": -28,
+        "script": "no speech; a soft, cushioned sneaker bounce and light floor tap in a dry studio with no background music."
+      }
+    },
+    {
+      "capsule_id": "willow-guild-astral-orrery-corset",
+      "title": "Chrono-Arcana Sapphire & Brass Corset Gown",
+      "capsule_type": "wardrobe_gear",
+      "slot": "chassis_dress",
+      "rig_socket": "Spine, Chest, SkirtRing",
+      "style_theme": "astral-clockwork",
+      "enclave_emotion_id": "enclave_12_elias",
+      "cost_rupees": 250,
+      "frontier_cost": 20,
+      "stats": { "frt": 22, "eth": 26, "prw": 12, "ten": 24, "ast": 30, "agi": 14 },
+      "practice_avenue": "bulwark",
+      "mastery_ap_required": 150,
+      "ability_id": "ability_pendulum_ward_barrier",
+      "flow_prompt": "Dressed in a midnight-sapphire velvet coat-dress armored with etched antique-brass clockwork corset plates and golden constellation embroidery along the dark-rimmed pleated skirt, the companion shifts her weight in a poised, graceful arc. The rich sapphire velvet pleats drape and sway softly while warm studio light catches the burnished brass filigree at her waist, and she eases smoothly back into her starting pose. Locked static camera, clean solid white studio backdrop, no floating text or overlays. Audio: no speech; the soft, rich rustle of heavy velvet fabric and a quiet pocket-watch tick in a dry studio with no background music.",
+      "flow_settings": {
+        "aspect_ratio": "9:16",
+        "resolution": "720x1280",
+        "background_hex": "#FFFFFF",
+        "start_frame": "character.png",
+        "end_frame": "character.png"
+      },
+      "audio_script": {
+        "speech_mode": "non_verbal_foley",
+        "target_lufs": -28,
+        "script": "no speech; the soft, rich rustle of heavy velvet fabric and a quiet pocket-watch tick in a dry studio with no background music."
+      }
+    },
+    {
+      "capsule_id": "willow-guild-cyber-equalizer-visor",
+      "title": "Neon Gala Harmonic Equalizer Visor",
+      "capsule_type": "wardrobe_gear",
+      "slot": "visor",
+      "rig_socket": "Head",
+      "style_theme": "cyber-couture",
+      "enclave_emotion_id": "enclave_15_dorian",
+      "cost_rupees": 100,
+      "frontier_cost": 14,
+      "stats": { "frt": 14, "eth": 28, "prw": 12, "ten": 14, "ast": 24, "agi": 20 },
+      "practice_avenue": "valiance",
+      "mastery_ap_required": 110,
+      "ability_id": "ability_harmonic_prism_chord",
+      "flow_prompt": "Wearing a sleek wrap-around dark obsidian glass visor displaying two expressive glowing cyan-and-violet crescent eyes framed by dark chrome temple guards, the companion tilts her head happily toward the camera. Her glowing crescent eyes curve into a playful wink as she gives a cheerful little nod and her copper braided hair drifts softly across her shoulder, then she settles smoothly back into her starting pose. Locked static camera, clean solid white studio backdrop, no floating text or letters. Audio: a soft, playful human chuckle and a gentle harmonic crystal chime in a dry studio with no background music.",
+      "flow_settings": {
+        "aspect_ratio": "9:16",
+        "resolution": "720x1280",
+        "background_hex": "#FFFFFF",
+        "start_frame": "character.png",
+        "end_frame": "character.png"
+      },
+      "audio_script": {
+        "speech_mode": "warm_human_voice_and_foley",
+        "target_lufs": -18,
+        "script": "a soft, playful human chuckle and a gentle harmonic crystal chime in a dry studio with no background music."
+      }
+    },
+    {
+      "capsule_id": "willow-guild-cozy-boba-drone",
+      "title": "Sanctuary Taro Boba Companion Drone",
+      "capsule_type": "wardrobe_gear",
+      "slot": "held_prop",
+      "rig_socket": "WristPropSocket.R",
+      "style_theme": "cozy-tech",
+      "enclave_emotion_id": "enclave_07_willow",
+      "cost_rupees": 250,
+      "frontier_cost": 15,
+      "stats": { "frt": 28, "eth": 22, "prw": 10, "ten": 18, "ast": 20, "agi": 18 },
+      "practice_avenue": "resonance",
+      "mastery_ap_required": 130,
+      "ability_id": "ability_sanctuary_boba_refresh",
+      "flow_prompt": "Accompanied by a tiny, adorable dark-charcoal spherical helper drone hovering beside her right hand and carrying a purple taro milk-tea cup with a glowing coral straw, the companion glances warmly at her floating helper. The little charcoal drone performs a cheerful bobbing arc while she gives a relaxed, affectionate eye-smile and a gentle wave of her fingertips, then returns smoothly to her starting pose. Locked static camera, clean solid white studio backdrop, no floating text or overlays. Audio: no speech; a soft, cute two-note chime and the gentle clink of ice cubes in a dry studio with no background music.",
+      "flow_settings": {
+        "aspect_ratio": "9:16",
+        "resolution": "720x1280",
+        "background_hex": "#FFFFFF",
+        "start_frame": "character.png",
+        "end_frame": "character.png"
+      },
+      "audio_script": {
+        "speech_mode": "non_verbal_foley",
+        "target_lufs": -28,
+        "script": "no speech; a soft, cute two-note chime and the gentle clink of ice cubes in a dry studio with no background music."
+      }
+    },
+    {
+      "capsule_id": "willow-guild-strata-geode-shield-bit",
+      "title": "StrataPaper Quarry Geode Shield-Bit",
+      "capsule_type": "combat_ability",
+      "slot": "held_prop",
+      "rig_socket": "WristPropSocket.R",
+      "style_theme": "tactical-valkyrie",
+      "enclave_emotion_id": "enclave_03_silas",
+      "cost_rupees": 500,
+      "frontier_cost": 24,
+      "stats": { "frt": 32, "eth": 16, "prw": 24, "ten": 36, "ast": 22, "agi": 12 },
+      "practice_avenue": "aegis",
+      "mastery_ap_required": 200,
+      "ability_id": "ability_anvilstone_geode_bastion",
+      "flow_prompt": "Accompanied by a sleek diamond-shaped dark anvilstone and gunmetal shield-bit hovering beside her right wrist with a glowing emerald-and-amber crystalline geode core, the companion raises her forearm in a steady defensive guard. The hovering shield-bit rotates crisply on its vertical axis as her two glowing green eyes focus with calm determination, before she lowers her arm and settles smoothly back into her starting stance. Locked static camera, clean solid white studio backdrop, no floating text or overlays. Audio: no speech; a solid metallic lock click and a quiet crystalline resonance hum in a dry studio with no background music.",
+      "flow_settings": {
+        "aspect_ratio": "9:16",
+        "resolution": "720x1280",
+        "background_hex": "#FFFFFF",
+        "start_frame": "character.png",
+        "end_frame": "character.png"
+      },
+      "audio_script": {
+        "speech_mode": "non_verbal_foley",
+        "target_lufs": -28,
+        "script": "no speech; a solid metallic lock click and a quiet crystalline resonance hum in a dry studio with no background music."
+      }
+    },
+    {
+      "capsule_id": "willow-guild-boss-daily-crag-sentinel",
+      "title": "Daily Mini-Boss: Obsidian Crag Sentinel",
+      "capsule_type": "mini_boss_mountain",
+      "slot": "chassis_dress",
+      "rig_socket": "Spine, Chest, SkirtRing",
+      "style_theme": "tactical-valkyrie",
+      "enclave_emotion_id": "enclave_02_jane",
+      "cost_rupees": 25,
+      "frontier_cost": 45,
+      "stats": { "frt": 45, "eth": 20, "prw": 32, "ten": 34, "ast": 24, "agi": 22 },
+      "practice_avenue": "aegis",
+      "mastery_ap_required": 150,
+      "ability_id": "boss_mountain_daily_crag_sentinel",
+      "flow_prompt": "Armored in sleek dark-titanium and bronze valkyrie cuirass plates with glowing emerald reactor seams, the companion steps into a balanced martial stance as she squares her shoulders toward a mountain trial. She raises her right fist across her heart in a resolute knightly salute while her two glowing green eyes shine with calm courage, then exhales softly and eases smoothly back into her starting pose. Locked static camera, clean solid white studio backdrop, no floating text or overlays. Audio: in a warm, confident, natural human voice—never robotic—she says, \"Let's test our mettle,\" with a crisp armor click in a dry studio with no background music.",
+      "flow_settings": {
+        "aspect_ratio": "9:16",
+        "resolution": "720x1280",
+        "background_hex": "#FFFFFF",
+        "start_frame": "character.png",
+        "end_frame": "character.png"
+      },
+      "audio_script": {
+        "speech_mode": "warm_human_voice_and_foley",
+        "target_lufs": -18,
+        "script": "in a warm, confident, natural human voice—never robotic—she says, \"Let's test our mettle,\" with a crisp armor click in a dry studio with no background music."
+      }
+    },
+    {
+      "capsule_id": "willow-guild-boss-weekly-syzygy-colossus",
+      "title": "Weekly Big-Boss: Astral Syzygy Chronos Colossus",
+      "capsule_type": "big_boss_mountain",
+      "slot": "back_accessory",
+      "rig_socket": "BackMountSocket",
+      "style_theme": "royal-valkyrie",
+      "enclave_emotion_id": "enclave_10_isla",
+      "cost_rupees": 100,
+      "frontier_cost": 100,
+      "stats": { "frt": 80, "eth": 55, "prw": 52, "ten": 60, "ast": 58, "agi": 40 },
+      "practice_avenue": "vanguard",
+      "mastery_ap_required": 350,
+      "ability_id": "boss_mountain_weekly_syzygy_colossus",
+      "flow_prompt": "Framed by a grand concentric antique-bronze and obsidian sun-wheel astrolabe ring suspended behind her shoulders with glowing golden star-runes, the companion draws herself up onto the balls of her feet in triumphant readiness. She pumps both fists at chest height as the bronze dorsal rings turn in a majestic arc and her two glowing green eyes beam with radiant determination, then settles smoothly back into her starting stance. Locked static camera, clean solid white studio backdrop, no floating text or overlays. Audio: in a bright, inspiring, natural human voice—never robotic—she cheers, \"Together to the summit!\" with a warm brass chime in a dry studio with no background music.",
+      "flow_settings": {
+        "aspect_ratio": "9:16",
+        "resolution": "720x1280",
+        "background_hex": "#FFFFFF",
+        "start_frame": "character.png",
+        "end_frame": "character.png"
+      },
+      "audio_script": {
+        "speech_mode": "warm_human_voice_and_foley",
+        "target_lufs": -18,
+        "script": "in a bright, inspiring, natural human voice—never robotic—she cheers, \"Together to the summit!\" with a warm brass chime in a dry studio with no background music."
+      }
+    }
+  ]
+}

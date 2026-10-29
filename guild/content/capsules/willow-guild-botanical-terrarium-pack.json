@@ -1,0 +1,35 @@
+{
+  "capsule_id": "willow-guild-botanical-terrarium-pack",
+  "title": "Genesis Garden Terrarium Wing Frame",
+  "capsule_type": "wardrobe_gear",
+  "slot": "back_accessory",
+  "rig_socket": "BackMountSocket",
+  "style_theme": "botanical-fae",
+  "enclave_emotion_id": "enclave_08_terra",
+  "cost_rupees": 250,
+  "frontier_cost": 16,
+  "stats": {
+    "frt": 35,
+    "eth": 24,
+    "prw": 10,
+    "ten": 20,
+    "ast": 22,
+    "agi": 12
+  },
+  "practice_avenue": "resonance",
+  "mastery_ap_required": 140,
+  "ability_id": "ability_genesis_dew_mend",
+  "flow_prompt": "Equipped with wrought-copper dragonfly-and-fern wing frames behind her shoulders enclosing a dark-iron hexagonal glass terrarium with a glowing emerald crystal sprout, the companion sways with gentle woodland warmth in the studio light. As she takes a slow, peaceful breath, the copper fern pinions fan outward slightly in a graceful arc and her two glowing green eyes blink warmly before the wing frames settle smoothly back into their starting position. Locked static camera, clean solid white studio backdrop, no floating text or overlays. Audio: no speech; the soft rustle of velvet leaves and a delicate glass terrarium chime in a dry studio with no background music.",
+  "flow_settings": {
+    "aspect_ratio": "9:16",
+    "resolution": "720x1280",
+    "background_hex": "#FFFFFF",
+    "start_frame": "character.png",
+    "end_frame": "character.png"
+  },
+  "audio_script": {
+    "speech_mode": "non_verbal_foley",
+    "target_lufs": -28,
+    "script": "no speech; the soft rustle of velvet leaves and a delicate glass terrarium chime in a dry studio with no background music."
+  }
+}

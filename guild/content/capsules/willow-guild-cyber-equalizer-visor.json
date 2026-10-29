@@ -1,0 +1,35 @@
+{
+  "capsule_id": "willow-guild-cyber-equalizer-visor",
+  "title": "Neon Gala Harmonic Equalizer Visor",
+  "capsule_type": "wardrobe_gear",
+  "slot": "visor",
+  "rig_socket": "Head",
+  "style_theme": "cyber-couture",
+  "enclave_emotion_id": "enclave_15_dorian",
+  "cost_rupees": 100,
+  "frontier_cost": 14,
+  "stats": {
+    "frt": 14,
+    "eth": 28,
+    "prw": 12,
+    "ten": 14,
+    "ast": 24,
+    "agi": 20
+  },
+  "practice_avenue": "valiance",
+  "mastery_ap_required": 110,
+  "ability_id": "ability_harmonic_prism_chord",
+  "flow_prompt": "Wearing a sleek wrap-around dark obsidian glass visor displaying two expressive glowing cyan-and-violet crescent eyes framed by dark chrome temple guards, the companion tilts her head happily toward the camera. Her glowing crescent eyes curve into a playful wink as she gives a cheerful little nod and her copper braided hair drifts softly across her shoulder, then she settles smoothly back into her starting pose. Locked static camera, clean solid white studio backdrop, no floating text or letters. Audio: a soft, playful human chuckle and a gentle harmonic crystal chime in a dry studio with no background music.",
+  "flow_settings": {
+    "aspect_ratio": "9:16",
+    "resolution": "720x1280",
+    "background_hex": "#FFFFFF",
+    "start_frame": "character.png",
+    "end_frame": "character.png"
+  },
+  "audio_script": {
+    "speech_mode": "warm_human_voice_and_foley",
+    "target_lufs": -18,
+    "script": "a soft, playful human chuckle and a gentle harmonic crystal chime in a dry studio with no background music."
+  }
+}

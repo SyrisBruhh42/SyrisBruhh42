@@ -1,0 +1,35 @@
+{
+  "capsule_id": "willow-guild-royal-solstice-diadem",
+  "title": "Royal Solstice Sun-Gold Porcelain Diadem",
+  "capsule_type": "wardrobe_gear",
+  "slot": "headpiece",
+  "rig_socket": "CrownSocket",
+  "style_theme": "royal-valkyrie",
+  "enclave_emotion_id": "enclave_14_vex",
+  "cost_rupees": 500,
+  "frontier_cost": 22,
+  "stats": {
+    "frt": 30,
+    "eth": 28,
+    "prw": 16,
+    "ten": 20,
+    "ast": 26,
+    "agi": 15
+  },
+  "practice_avenue": "valiance",
+  "mastery_ap_required": 180,
+  "ability_id": "ability_solstice_corona_pulse",
+  "flow_prompt": "Wearing a regal obsidian-black and burnished sun-gold sunburst diadem crown mounted cleanly between her curved bronze horns, the companion stands with serene, royal composure as warm golden studio light glints across the dark-rimmed filigree spikes. She tilts her head in a gracious, courtly greeting while her two glowing green eyes curve into a warm crescent smile and her braided hair sways gently over her shoulder, then eases seamlessly back into her starting pose. Locked static camera, clean solid white studio backdrop, no floating text or overlays. Audio: no speech; a delicate, resonant golden bell chime and soft fabric rustle in a dry studio with no background music.",
+  "flow_settings": {
+    "aspect_ratio": "9:16",
+    "resolution": "720x1280",
+    "background_hex": "#FFFFFF",
+    "start_frame": "character.png",
+    "end_frame": "character.png"
+  },
+  "audio_script": {
+    "speech_mode": "non_verbal_foley",
+    "target_lufs": -28,
+    "script": "no speech; a delicate, resonant golden bell chime and soft fabric rustle in a dry studio with no background music."
+  }
+}
