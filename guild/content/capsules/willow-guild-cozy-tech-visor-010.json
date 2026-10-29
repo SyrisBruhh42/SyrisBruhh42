@@ -10,10 +10,10 @@
   "frontier_cost": 20,
   "stats": {
     "frt": 25,
-    "eth": 41,
+    "eth": 24,
     "prw": 33,
-    "ten": 24,
-    "ast": 40,
+    "ten": 40,
+    "ast": 41,
     "agi": 26
   },
   "practice_avenue": "bulwark",
