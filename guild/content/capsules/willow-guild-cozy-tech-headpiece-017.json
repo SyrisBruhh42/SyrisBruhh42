@@ -9,11 +9,11 @@
   "cost_rupees": 225,
   "frontier_cost": 17,
   "stats": {
-    "frt": 22,
-    "eth": 28,
-    "prw": 34,
+    "frt": 35,
+    "eth": 34,
+    "prw": 28,
     "ten": 29,
-    "ast": 35,
+    "ast": 22,
     "agi": 25
   },
   "practice_avenue": "resonance",
