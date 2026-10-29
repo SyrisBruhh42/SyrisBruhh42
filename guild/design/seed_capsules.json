@@ -236,7 +236,7 @@
       "enclave_emotion_id": "enclave_02_jane",
       "cost_rupees": 25,
       "frontier_cost": 45,
-      "stats": { "frt": 45, "eth": 20, "prw": 32, "ten": 34, "ast": 24, "agi": 22 },
+      "stats": { "frt": 34, "eth": 20, "prw": 32, "ten": 45, "ast": 24, "agi": 22 },
       "practice_avenue": "aegis",
       "mastery_ap_required": 150,
       "ability_id": "boss_mountain_daily_crag_sentinel",
