@@ -390,7 +390,7 @@
       "slot": "headpiece",
       "rig_socket": "CrownSocket",
       "style_theme": "royal-valkyrie",
-      "enclave_emotion_id": "enclave_05_kaio",
+      "enclave_emotion_id": "enclave_07_willow",
       "cost_rupees": 275,
       "frontier_cost": 29,
       "practice_avenue": "resonance",
@@ -399,7 +399,7 @@
       "encounter_tier": "GuildPatrol",
       "file": "content/capsules/willow-guild-royal-valkyrie-headpiece-005.json",
       "path": "content/capsules/willow-guild-royal-valkyrie-headpiece-005.json",
-      "sha256": "837a1e52a692a2909a205eef10d79b94c2770f065548534b92624cd1dd2b73f7"
+      "sha256": "3bd759d0ba7d116c0eb24f29eea9d65b54f08ccd505a36076227facef57eb4e4"
     },
     {
       "capsule_id": "willow-guild-royal-valkyrie-held-prop-012",
