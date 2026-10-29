@@ -9,12 +9,12 @@
   "cost_rupees": 275,
   "frontier_cost": 23,
   "stats": {
-    "frt": 28,
-    "eth": 38,
-    "prw": 24,
-    "ten": 27,
-    "ast": 37,
-    "agi": 35
+    "prw": 38,
+    "frt": 37,
+    "eth": 35,
+    "ten": 28,
+    "ast": 27,
+    "agi": 24
   },
   "practice_avenue": "vanguard",
   "mastery_ap_required": 160,

@@ -9,12 +9,12 @@
   "cost_rupees": 225,
   "frontier_cost": 17,
   "stats": {
-    "frt": 22,
-    "eth": 28,
-    "prw": 34,
-    "ten": 29,
-    "ast": 35,
-    "agi": 25
+    "frt": 35,
+    "eth": 34,
+    "prw": 29,
+    "ten": 28,
+    "ast": 25,
+    "agi": 22
   },
   "practice_avenue": "resonance",
   "mastery_ap_required": 140,

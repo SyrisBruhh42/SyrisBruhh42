@@ -9,12 +9,12 @@
   "cost_rupees": 400,
   "frontier_cost": 20,
   "stats": {
-    "frt": 25,
-    "eth": 41,
-    "prw": 33,
-    "ten": 24,
-    "ast": 40,
-    "agi": 26
+    "ast": 41,
+    "ten": 40,
+    "frt": 33,
+    "eth": 26,
+    "prw": 25,
+    "agi": 24
   },
   "practice_avenue": "bulwark",
   "mastery_ap_required": 210,

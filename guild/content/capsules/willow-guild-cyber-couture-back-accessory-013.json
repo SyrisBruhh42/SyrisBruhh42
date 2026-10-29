@@ -9,11 +9,11 @@
   "cost_rupees": 475,
   "frontier_cost": 29,
   "stats": {
-    "frt": 34,
+    "prw": 34,
+    "frt": 33,
     "eth": 32,
-    "prw": 30,
-    "ten": 33,
-    "ast": 31,
+    "ten": 31,
+    "ast": 30,
     "agi": 29
   },
   "practice_avenue": "vanguard",
