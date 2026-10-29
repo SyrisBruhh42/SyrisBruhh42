@@ -124,7 +124,7 @@
       "enclave_emotion_id": "enclave_12_elias",
       "cost_rupees": 250,
       "frontier_cost": 20,
-      "stats": { "frt": 22, "eth": 26, "prw": 12, "ten": 24, "ast": 30, "agi": 14 },
+      "stats": { "frt": 22, "eth": 24, "prw": 12, "ten": 26, "ast": 30, "agi": 14 },
       "practice_avenue": "bulwark",
       "mastery_ap_required": 150,
       "ability_id": "ability_pendulum_ward_barrier",
