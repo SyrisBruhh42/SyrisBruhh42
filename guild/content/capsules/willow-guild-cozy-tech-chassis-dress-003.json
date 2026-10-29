@@ -9,12 +9,12 @@
   "cost_rupees": 225,
   "frontier_cost": 23,
   "stats": {
-    "frt": 28,
-    "eth": 30,
-    "prw": 32,
     "ten": 43,
-    "ast": 21,
-    "agi": 27
+    "frt": 32,
+    "eth": 30,
+    "prw": 28,
+    "ast": 27,
+    "agi": 21
   },
   "practice_avenue": "aegis",
   "mastery_ap_required": 140,

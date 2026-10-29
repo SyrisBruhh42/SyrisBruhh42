@@ -9,12 +9,12 @@
   "cost_rupees": 300,
   "frontier_cost": 26,
   "stats": {
-    "frt": 31,
     "eth": 43,
+    "ast": 38,
+    "frt": 31,
     "prw": 31,
-    "ten": 38,
-    "ast": 26,
-    "agi": 28
+    "ten": 28,
+    "agi": 26
   },
   "practice_avenue": "valiance",
   "mastery_ap_required": 170,
