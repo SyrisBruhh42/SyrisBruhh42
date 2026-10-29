@@ -21,7 +21,7 @@
       "encounter_tier": "wardrobe_gear",
       "file": "content/capsules/willow-guild-aegis-valkyrie-crest.json",
       "path": "content/capsules/willow-guild-aegis-valkyrie-crest.json",
-      "sha256": "8942a0fb323cc5ada84d2d966f3093a8740d232ad49c1676860c7e8ca578c9dd"
+      "sha256": "639c7a693898bef955b1a2193a8f57067e94fe68b535d563ffa367e9de88288e"
     },
     {
       "capsule_id": "willow-guild-royal-solstice-diadem",
@@ -39,7 +39,7 @@
       "encounter_tier": "wardrobe_gear",
       "file": "content/capsules/willow-guild-royal-solstice-diadem.json",
       "path": "content/capsules/willow-guild-royal-solstice-diadem.json",
-      "sha256": "7f8eab7cfde24bb2fff5a0a11c70ea1d02de70858107e304f120da2310664a53"
+      "sha256": "fc04fe642a7dae8f43a0b34f451bea0bf0920395234f61427a075c33aaa6f35b"
     },
     {
       "capsule_id": "willow-guild-botanical-terrarium-pack",
@@ -165,7 +165,7 @@
       "encounter_tier": "mini_boss_mountain",
       "file": "content/capsules/willow-guild-boss-daily-crag-sentinel.json",
       "path": "content/capsules/willow-guild-boss-daily-crag-sentinel.json",
-      "sha256": "d3de28b868ca6ad2e99185c30e5f202fc7f2a52d73a473711cfb0b3713d3ca19"
+      "sha256": "18e5d214ae15fe3dea1f25a6a90d42bc33a0535f52ad0716290ca16e0cd25601"
     },
     {
       "capsule_id": "willow-guild-boss-weekly-syzygy-colossus",
@@ -183,7 +183,7 @@
       "encounter_tier": "big_boss_mountain",
       "file": "content/capsules/willow-guild-boss-weekly-syzygy-colossus.json",
       "path": "content/capsules/willow-guild-boss-weekly-syzygy-colossus.json",
-      "sha256": "09ed6d69610117bbd8a73cff16377993950be8abe229c8cc010fb62776dc9b71"
+      "sha256": "1b7222e87524ca7fc7592a2f395d248d758a2ee95b5907d9fba988f3c1010f02"
     },
     {
       "capsule_id": "willow-guild-astral-clockwork-chassis-dress-009",
@@ -201,7 +201,7 @@
       "encounter_tier": "GuildPatrol",
       "file": "content/capsules/willow-guild-astral-clockwork-chassis-dress-009.json",
       "path": "content/capsules/willow-guild-astral-clockwork-chassis-dress-009.json",
-      "sha256": "2107238452cc248b822a0879cc5f4f50a8faab974e65ead92efda8967e9432f5"
+      "sha256": "8db8db29393526603b25828768cc39000d46ba768f4ebb1f440b0cc21442d61c"
     },
     {
       "capsule_id": "willow-guild-astral-clockwork-visor-016",
@@ -219,7 +219,7 @@
       "encounter_tier": "DailyMiniBoss",
       "file": "content/capsules/willow-guild-astral-clockwork-visor-016.json",
       "path": "content/capsules/willow-guild-astral-clockwork-visor-016.json",
-      "sha256": "a8cf501dcfd4f5e637f4d44ec888e050090e263430d687019ad84ab65b016834"
+      "sha256": "596b86afbcadc3b10ae5be4d8ebb57b9f40b41a16b9d9e06645c56e592b6b0ab"
     },
     {
       "capsule_id": "willow-guild-botanical-fae-boots-008",
@@ -237,7 +237,7 @@
       "encounter_tier": "GuildPatrol",
       "file": "content/capsules/willow-guild-botanical-fae-boots-008.json",
       "path": "content/capsules/willow-guild-botanical-fae-boots-008.json",
-      "sha256": "80b29053e5ee40a80f769306d931c2c7cabfe87f0bbdcd0bb01667fd4dbbb8c1"
+      "sha256": "70eef3c324fc0d2931b926b24bea0becec2cb6c8f6bd1d04111b57d1edb9cb72"
     },
     {
       "capsule_id": "willow-guild-botanical-fae-chassis-dress-015",
@@ -255,7 +255,7 @@
       "encounter_tier": "GuildPatrol",
       "file": "content/capsules/willow-guild-botanical-fae-chassis-dress-015.json",
       "path": "content/capsules/willow-guild-botanical-fae-chassis-dress-015.json",
-      "sha256": "b15cadc97a77b084029e250ad0d2367619354da80809749ac078a46815138ca5"
+      "sha256": "c593f9de7d5dfdd544e3ddd7bc5666f8803960a24e32630e12aecd4237464a0e"
     },
     {
       "capsule_id": "willow-guild-cozy-tech-chassis-dress-003",
@@ -273,7 +273,7 @@
       "encounter_tier": "GuildPatrol",
       "file": "content/capsules/willow-guild-cozy-tech-chassis-dress-003.json",
       "path": "content/capsules/willow-guild-cozy-tech-chassis-dress-003.json",
-      "sha256": "62faca52b40fbcf2d6b8c9d3bf1bde15e6cec8b1c4fd5f0997f1d6a98e8cef4e"
+      "sha256": "95d5bb3de36146ba0e54e55d8de71003bc17d975e17ec41af92d8133dae594c3"
     },
     {
       "capsule_id": "willow-guild-cozy-tech-headpiece-017",
@@ -291,7 +291,7 @@
       "encounter_tier": "GuildPatrol",
       "file": "content/capsules/willow-guild-cozy-tech-headpiece-017.json",
       "path": "content/capsules/willow-guild-cozy-tech-headpiece-017.json",
-      "sha256": "cdf76feb5d0b7deb1887822ba79c4cab6ef2f1aeb17479f7233766bec14b9cfa"
+      "sha256": "863b9567602a4c3908e46f4125451921b681502386d70f76dfd2c8a175ace6a7"
     },
     {
       "capsule_id": "willow-guild-cozy-tech-visor-010",
@@ -309,7 +309,7 @@
       "encounter_tier": "DailyMiniBoss",
       "file": "content/capsules/willow-guild-cozy-tech-visor-010.json",
       "path": "content/capsules/willow-guild-cozy-tech-visor-010.json",
-      "sha256": "94c7f0ab0efb19d43f47ace8667ed2a867357481c60ad2e2f2ddb31a70550d1a"
+      "sha256": "84c8cbfb04fa8ec38d84dda7af257f9c0564fe6f2a07c6bebbb2862afffd229f"
     },
     {
       "capsule_id": "willow-guild-cyber-couture-back-accessory-013",
@@ -327,7 +327,7 @@
       "encounter_tier": "DailyMiniBoss",
       "file": "content/capsules/willow-guild-cyber-couture-back-accessory-013.json",
       "path": "content/capsules/willow-guild-cyber-couture-back-accessory-013.json",
-      "sha256": "2db00869d3ec79bcf0416d9b40426779cbc38c81698989fffd6b6b0c927ea8dd"
+      "sha256": "4c30947e415436b8d9730550739c9540db87f65c07b52b5ae273e7f6d07631a5"
     },
     {
       "capsule_id": "willow-guild-cyber-couture-boots-020",
@@ -345,7 +345,7 @@
       "encounter_tier": "GuildPatrol",
       "file": "content/capsules/willow-guild-cyber-couture-boots-020.json",
       "path": "content/capsules/willow-guild-cyber-couture-boots-020.json",
-      "sha256": "765a55b60f04cf25fd97bd378ae0f1de3ad6cd20981dc24466c524ff9c1a21bf"
+      "sha256": "89a95ae64b92b230d18a129b651e544227bf1c65e151a0bf0760eee7dcd2ff13"
     },
     {
       "capsule_id": "willow-guild-cyber-couture-held-prop-006",
@@ -363,7 +363,7 @@
       "encounter_tier": "GuildPatrol",
       "file": "content/capsules/willow-guild-cyber-couture-held-prop-006.json",
       "path": "content/capsules/willow-guild-cyber-couture-held-prop-006.json",
-      "sha256": "29c9abc70694c033340b50b03bf25c91093c48447047797d3244bc36434a440f"
+      "sha256": "4012385b9f8270c927b4285d8d4f76c30133ddc1fb08d00d04e4b8b38a9f565c"
     },
     {
       "capsule_id": "willow-guild-royal-valkyrie-back-accessory-019",
@@ -381,7 +381,7 @@
       "encounter_tier": "DailyMiniBoss",
       "file": "content/capsules/willow-guild-royal-valkyrie-back-accessory-019.json",
       "path": "content/capsules/willow-guild-royal-valkyrie-back-accessory-019.json",
-      "sha256": "dc1d1beaa7a0798337624f4babfce4969a5340be3d0d6ccc98bedcf394b21f86"
+      "sha256": "4c3f2a730003d02b400013f4b414f3a7571adf128e73ec19ba8b077cfb2bcb46"
     },
     {
       "capsule_id": "willow-guild-royal-valkyrie-headpiece-005",
@@ -399,7 +399,7 @@
       "encounter_tier": "GuildPatrol",
       "file": "content/capsules/willow-guild-royal-valkyrie-headpiece-005.json",
       "path": "content/capsules/willow-guild-royal-valkyrie-headpiece-005.json",
-      "sha256": "837a1e52a692a2909a205eef10d79b94c2770f065548534b92624cd1dd2b73f7"
+      "sha256": "738e97fa7c1904a0d2ed554b443f2dd8b4ba24ec8760bf990091de9d80936678"
     },
     {
       "capsule_id": "willow-guild-royal-valkyrie-held-prop-012",
@@ -417,7 +417,7 @@
       "encounter_tier": "GuildPatrol",
       "file": "content/capsules/willow-guild-royal-valkyrie-held-prop-012.json",
       "path": "content/capsules/willow-guild-royal-valkyrie-held-prop-012.json",
-      "sha256": "c795da5170de3eed242963c4b981521c04ad9218d54db4aef6b2c4b01cc6000d"
+      "sha256": "032794d78e147ba24ff5eabb267eedafd33b7b3c4bd20c739f971dfde004d34a"
     },
     {
       "capsule_id": "willow-guild-street-tech-back-accessory-007",
@@ -435,7 +435,7 @@
       "encounter_tier": "DailyMiniBoss",
       "file": "content/capsules/willow-guild-street-tech-back-accessory-007.json",
       "path": "content/capsules/willow-guild-street-tech-back-accessory-007.json",
-      "sha256": "66be8cf68f1e113bd4da7b17f7beed8d9b256aaa34b637eeb6316b1b47fd7762"
+      "sha256": "ab6864ce198e8ff6b668a359ecf8c7cbfa127709d5cc4eaf4ee18132aab201c0"
     },
     {
       "capsule_id": "willow-guild-street-tech-boots-014",
@@ -453,7 +453,7 @@
       "encounter_tier": "GuildPatrol",
       "file": "content/capsules/willow-guild-street-tech-boots-014.json",
       "path": "content/capsules/willow-guild-street-tech-boots-014.json",
-      "sha256": "0f006eb0b10bc4f4238deaea6880ba4af8a363fcf35bacfd49685997a193231f"
+      "sha256": "66b08623c38a806056b96b78eb6ce41a8c37bda2a5f0c74fe3855032f1ab265c"
     },
     {
       "capsule_id": "willow-guild-tactical-valkyrie-headpiece-011",
@@ -489,7 +489,7 @@
       "encounter_tier": "GuildPatrol",
       "file": "content/capsules/willow-guild-tactical-valkyrie-held-prop-018.json",
       "path": "content/capsules/willow-guild-tactical-valkyrie-held-prop-018.json",
-      "sha256": "59c3c7f03032575af2b87fb1c5e5851b964f9dc7ecf365f1eac83d59ae3d836a"
+      "sha256": "f54b0bc78ddc38460db888d6ea049881f1dfa67c85ecfb4a95e30a1f5c29fe6c"
     },
     {
       "capsule_id": "willow-guild-tactical-valkyrie-visor-004",

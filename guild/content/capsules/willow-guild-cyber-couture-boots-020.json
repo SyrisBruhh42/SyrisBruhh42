@@ -9,11 +9,11 @@
   "cost_rupees": 300,
   "frontier_cost": 26,
   "stats": {
-    "frt": 31,
     "eth": 43,
+    "ast": 38,
+    "frt": 31,
     "prw": 31,
-    "ten": 38,
-    "ast": 26,
+    "ten": 26,
     "agi": 28
   },
   "practice_avenue": "valiance",

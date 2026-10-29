@@ -9,12 +9,12 @@
   "cost_rupees": 300,
   "frontier_cost": 32,
   "stats": {
-    "frt": 37,
+    "agi": 37,
+    "prw": 36,
+    "frt": 30,
     "eth": 21,
-    "prw": 29,
     "ten": 28,
-    "ast": 36,
-    "agi": 30
+    "ast": 29
   },
   "practice_avenue": "windrunner",
   "mastery_ap_required": 170,

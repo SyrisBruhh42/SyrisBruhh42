@@ -9,10 +9,10 @@
   "cost_rupees": 225,
   "frontier_cost": 23,
   "stats": {
-    "frt": 28,
-    "eth": 30,
-    "prw": 32,
     "ten": 43,
+    "frt": 32,
+    "eth": 30,
+    "prw": 28,
     "ast": 21,
     "agi": 27
   },
