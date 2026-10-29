@@ -9,11 +9,11 @@
   "cost_rupees": 200,
   "frontier_cost": 14,
   "stats": {
-    "frt": 43,
+    "ast": 43,
+    "ten": 42,
+    "frt": 22,
     "eth": 23,
     "prw": 27,
-    "ten": 42,
-    "ast": 22,
     "agi": 32
   },
   "practice_avenue": "bulwark",

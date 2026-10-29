@@ -12,7 +12,14 @@
       "enclave_emotion_id": "enclave_04_leo",
       "cost_rupees": 250,
       "frontier_cost": 18,
-      "stats": { "frt": 25, "eth": 10, "prw": 22, "ten": 18, "ast": 12, "agi": 14 },
+      "stats": {
+        "prw": 25,
+        "frt": 22,
+        "eth": 10,
+        "ten": 18,
+        "ast": 12,
+        "agi": 14
+      },
       "practice_avenue": "vanguard",
       "mastery_ap_required": 120,
       "ability_id": "ability_emerald_wing_cleave",
@@ -40,7 +47,14 @@
       "enclave_emotion_id": "enclave_14_vex",
       "cost_rupees": 500,
       "frontier_cost": 22,
-      "stats": { "frt": 30, "eth": 28, "prw": 16, "ten": 20, "ast": 26, "agi": 15 },
+      "stats": {
+        "eth": 30,
+        "ast": 28,
+        "frt": 26,
+        "prw": 16,
+        "ten": 20,
+        "agi": 15
+      },
       "practice_avenue": "valiance",
       "mastery_ap_required": 180,
       "ability_id": "ability_solstice_corona_pulse",
@@ -68,7 +82,14 @@
       "enclave_emotion_id": "enclave_08_terra",
       "cost_rupees": 250,
       "frontier_cost": 16,
-      "stats": { "frt": 35, "eth": 24, "prw": 10, "ten": 20, "ast": 22, "agi": 12 },
+      "stats": {
+        "frt": 35,
+        "eth": 24,
+        "prw": 10,
+        "ten": 20,
+        "ast": 22,
+        "agi": 12
+      },
       "practice_avenue": "resonance",
       "mastery_ap_required": 140,
       "ability_id": "ability_genesis_dew_mend",
@@ -96,7 +117,14 @@
       "enclave_emotion_id": "enclave_01_hector",
       "cost_rupees": 100,
       "frontier_cost": 12,
-      "stats": { "frt": 15, "eth": 10, "prw": 18, "ten": 14, "ast": 12, "agi": 32 },
+      "stats": {
+        "frt": 15,
+        "eth": 10,
+        "prw": 18,
+        "ten": 14,
+        "ast": 12,
+        "agi": 32
+      },
       "practice_avenue": "windrunner",
       "mastery_ap_required": 100,
       "ability_id": "ability_arcade_dash_step",
@@ -124,7 +152,14 @@
       "enclave_emotion_id": "enclave_12_elias",
       "cost_rupees": 250,
       "frontier_cost": 20,
-      "stats": { "frt": 22, "eth": 24, "prw": 12, "ten": 26, "ast": 30, "agi": 14 },
+      "stats": {
+        "frt": 22,
+        "eth": 24,
+        "prw": 12,
+        "ten": 26,
+        "ast": 30,
+        "agi": 14
+      },
       "practice_avenue": "bulwark",
       "mastery_ap_required": 150,
       "ability_id": "ability_pendulum_ward_barrier",
@@ -152,7 +187,14 @@
       "enclave_emotion_id": "enclave_15_dorian",
       "cost_rupees": 100,
       "frontier_cost": 14,
-      "stats": { "frt": 14, "eth": 28, "prw": 12, "ten": 14, "ast": 24, "agi": 20 },
+      "stats": {
+        "frt": 14,
+        "eth": 28,
+        "prw": 12,
+        "ten": 14,
+        "ast": 24,
+        "agi": 20
+      },
       "practice_avenue": "valiance",
       "mastery_ap_required": 110,
       "ability_id": "ability_harmonic_prism_chord",
@@ -180,7 +222,14 @@
       "enclave_emotion_id": "enclave_07_willow",
       "cost_rupees": 250,
       "frontier_cost": 15,
-      "stats": { "frt": 28, "eth": 22, "prw": 10, "ten": 18, "ast": 20, "agi": 18 },
+      "stats": {
+        "frt": 28,
+        "eth": 22,
+        "prw": 10,
+        "ten": 18,
+        "ast": 20,
+        "agi": 18
+      },
       "practice_avenue": "resonance",
       "mastery_ap_required": 130,
       "ability_id": "ability_sanctuary_boba_refresh",
@@ -208,7 +257,14 @@
       "enclave_emotion_id": "enclave_03_silas",
       "cost_rupees": 500,
       "frontier_cost": 24,
-      "stats": { "frt": 32, "eth": 16, "prw": 24, "ten": 36, "ast": 22, "agi": 12 },
+      "stats": {
+        "frt": 32,
+        "eth": 16,
+        "prw": 24,
+        "ten": 36,
+        "ast": 22,
+        "agi": 12
+      },
       "practice_avenue": "aegis",
       "mastery_ap_required": 200,
       "ability_id": "ability_anvilstone_geode_bastion",
@@ -236,11 +292,18 @@
       "enclave_emotion_id": "enclave_02_jane",
       "cost_rupees": 25,
       "frontier_cost": 45,
-      "stats": { "frt": 45, "eth": 20, "prw": 32, "ten": 34, "ast": 24, "agi": 22 },
+      "stats": {
+        "ten": 45,
+        "frt": 34,
+        "eth": 20,
+        "prw": 32,
+        "ast": 24,
+        "agi": 22
+      },
       "practice_avenue": "aegis",
       "mastery_ap_required": 150,
       "ability_id": "boss_mountain_daily_crag_sentinel",
-      "flow_prompt": "Armored in sleek dark-titanium and bronze valkyrie cuirass plates with glowing emerald reactor seams, the companion steps into a balanced martial stance as she squares her shoulders toward a mountain trial. She raises her right fist across her heart in a resolute knightly salute while her two glowing green eyes shine with calm courage, then exhales softly and eases smoothly back into her starting pose. Locked static camera, clean solid white studio backdrop, no floating text or overlays. Audio: in a warm, confident, natural human voice—never robotic—she says, \"Let's test our mettle,\" with a crisp armor click in a dry studio with no background music.",
+      "flow_prompt": "Armored in sleek dark-titanium and bronze valkyrie cuirass plates with glowing emerald reactor seams, the companion steps into a balanced martial stance as she squares her shoulders toward a mountain trial. She raises her right fist across her heart in a resolute knightly salute while her two glowing green eyes shine with calm courage, then exhales softly and eases smoothly back into her starting pose. Locked static camera, clean solid white studio backdrop, no floating text or overlays. Audio: in a warm, confident, natural human voice\u2014never robotic\u2014she says, \"Let's test our mettle,\" with a crisp armor click in a dry studio with no background music.",
       "flow_settings": {
         "aspect_ratio": "9:16",
         "resolution": "720x1280",
@@ -251,7 +314,7 @@
       "audio_script": {
         "speech_mode": "warm_human_voice_and_foley",
         "target_lufs": -18,
-        "script": "in a warm, confident, natural human voice—never robotic—she says, \"Let's test our mettle,\" with a crisp armor click in a dry studio with no background music."
+        "script": "in a warm, confident, natural human voice\u2014never robotic\u2014she says, \"Let's test our mettle,\" with a crisp armor click in a dry studio with no background music."
       }
     },
     {
@@ -264,11 +327,18 @@
       "enclave_emotion_id": "enclave_10_isla",
       "cost_rupees": 100,
       "frontier_cost": 100,
-      "stats": { "frt": 80, "eth": 55, "prw": 52, "ten": 60, "ast": 58, "agi": 40 },
+      "stats": {
+        "prw": 80,
+        "frt": 60,
+        "eth": 55,
+        "ten": 52,
+        "ast": 58,
+        "agi": 40
+      },
       "practice_avenue": "vanguard",
       "mastery_ap_required": 350,
       "ability_id": "boss_mountain_weekly_syzygy_colossus",
-      "flow_prompt": "Framed by a grand concentric antique-bronze and obsidian sun-wheel astrolabe ring suspended behind her shoulders with glowing golden star-runes, the companion draws herself up onto the balls of her feet in triumphant readiness. She pumps both fists at chest height as the bronze dorsal rings turn in a majestic arc and her two glowing green eyes beam with radiant determination, then settles smoothly back into her starting stance. Locked static camera, clean solid white studio backdrop, no floating text or overlays. Audio: in a bright, inspiring, natural human voice—never robotic—she cheers, \"Together to the summit!\" with a warm brass chime in a dry studio with no background music.",
+      "flow_prompt": "Framed by a grand concentric antique-bronze and obsidian sun-wheel astrolabe ring suspended behind her shoulders with glowing golden star-runes, the companion draws herself up onto the balls of her feet in triumphant readiness. She pumps both fists at chest height as the bronze dorsal rings turn in a majestic arc and her two glowing green eyes beam with radiant determination, then settles smoothly back into her starting stance. Locked static camera, clean solid white studio backdrop, no floating text or overlays. Audio: in a bright, inspiring, natural human voice\u2014never robotic\u2014she cheers, \"Together to the summit!\" with a warm brass chime in a dry studio with no background music.",
       "flow_settings": {
         "aspect_ratio": "9:16",
         "resolution": "720x1280",
@@ -279,7 +349,7 @@
       "audio_script": {
         "speech_mode": "warm_human_voice_and_foley",
         "target_lufs": -18,
-        "script": "in a bright, inspiring, natural human voice—never robotic—she cheers, \"Together to the summit!\" with a warm brass chime in a dry studio with no background music."
+        "script": "in a bright, inspiring, natural human voice\u2014never robotic\u2014she cheers, \"Together to the summit!\" with a warm brass chime in a dry studio with no background music."
       }
     }
   ]
