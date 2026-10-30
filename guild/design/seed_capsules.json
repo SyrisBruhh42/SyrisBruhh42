@@ -40,7 +40,7 @@
       "enclave_emotion_id": "enclave_14_vex",
       "cost_rupees": 500,
       "frontier_cost": 22,
-      "stats": { "frt": 30, "eth": 28, "prw": 16, "ten": 20, "ast": 26, "agi": 15 },
+      "stats": { "eth": 30, "ast": 28, "prw": 16, "ten": 20, "frt": 26, "agi": 15 },
       "practice_avenue": "valiance",
       "mastery_ap_required": 180,
       "ability_id": "ability_solstice_corona_pulse",
