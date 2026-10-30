@@ -11,10 +11,10 @@
   "stats": {
     "frt": 31,
     "eth": 27,
-    "prw": 23,
+    "prw": 36,
     "ten": 22,
-    "ast": 42,
-    "agi": 36
+    "ast": 23,
+    "agi": 42
   },
   "practice_avenue": "windrunner",
   "mastery_ap_required": 230,
