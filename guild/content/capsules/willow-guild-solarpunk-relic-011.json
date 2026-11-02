@@ -1,0 +1,35 @@
+{
+  "capsule_id": "willow-guild-solarpunk-relic-011",
+  "title": "Solarpunk Relic 011",
+  "capsule_type": "wardrobe_gear",
+  "slot": "held_prop",
+  "rig_socket": "WristPropSocket.R",
+  "style_theme": "botanical-fae",
+  "enclave_emotion_id": "enclave_11_kenna",
+  "cost_rupees": 200,
+  "frontier_cost": 20,
+  "stats": {
+    "frt": 35,
+    "eth": 25,
+    "prw": 10,
+    "ten": 10,
+    "ast": 10,
+    "agi": 10
+  },
+  "practice_avenue": "resonance",
+  "mastery_ap_required": 100,
+  "ability_id": "ability_solarpunk_relic",
+  "flow_prompt": "Accompanied by an ancient solarpunk relic hovering gently near her right hand that radiates a gentle green luminescence, the companion turns slightly toward the camera. Her eyes gleam with a natural, comforting energy as she smiles warmly at the viewer, gently adjusting her posture to showcase the ancient artifact. The mechanical components of the relic hum softly, blending seamlessly with organic vine-like structures that wrap around its metallic frame. She takes a deep breath, looking completely at peace, and then gracefully returns to her starting pose. Locked static camera, clean solid white studio backdrop, no floating text or overlays. Audio: no speech; a quiet breeze rustles leaves alongside the subtle hum of clean energy in a dry studio with no background music.",
+  "flow_settings": {
+    "aspect_ratio": "9:16",
+    "resolution": "720x1280",
+    "background_hex": "#FFFFFF",
+    "start_frame": "character.png",
+    "end_frame": "character.png"
+  },
+  "audio_script": {
+    "speech_mode": "non_verbal_foley",
+    "target_lufs": -28,
+    "script": "no speech; a quiet breeze rustles leaves alongside the subtle hum of clean energy in a dry studio with no background music."
+  }
+}
