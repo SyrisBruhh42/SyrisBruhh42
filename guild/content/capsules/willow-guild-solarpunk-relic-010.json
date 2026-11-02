@@ -1,0 +1,35 @@
+{
+  "capsule_id": "willow-guild-solarpunk-relic-010",
+  "title": "Solarpunk Relic Device",
+  "capsule_type": "wardrobe_gear",
+  "slot": "held_prop",
+  "rig_socket": "WristPropSocket.R",
+  "style_theme": "cozy-tech",
+  "enclave_emotion_id": "enclave_10_isla",
+  "cost_rupees": 400,
+  "frontier_cost": 20,
+  "stats": {
+    "agi": 30,
+    "prw": 28,
+    "eth": 26,
+    "frt": 20,
+    "ten": 16,
+    "ast": 15
+  },
+  "practice_avenue": "windrunner",
+  "mastery_ap_required": 150,
+  "ability_id": "ability_solarpunk_relic_pulse",
+  "flow_prompt": "Holding a glowing solarpunk relic of brushed brass and vivid green mossy glass in her hand, the companion leans forward with a joyful, curious sparkle in her two glowing green eyes as the warm studio light catches the ancient etched runes on the device. She carefully twists a small sun-gold dial on the side, watches as the soft internal illumination pulses brightly against the clean studio backdrop, gives a cheerful hum of approval with a bright smile, and settles smoothly back into her starting pose. Locked static camera, clean solid white studio backdrop, no floating text or overlays. Audio: a soft, warm human hum of delight mixed with the crisp mechanical click of a brass dial turning and a subtle, airy chime of activation, recorded in a dry studio with no background music.",
+  "flow_settings": {
+    "aspect_ratio": "9:16",
+    "resolution": "720x1280",
+    "background_hex": "#FFFFFF",
+    "start_frame": "character.png",
+    "end_frame": "character.png"
+  },
+  "audio_script": {
+    "speech_mode": "warm_human_voice_and_foley",
+    "target_lufs": -28,
+    "script": "a soft, warm human hum of delight mixed with the crisp mechanical click of a brass dial turning and a subtle, airy chime of activation, recorded in a dry studio with no background music."
+  }
+}
