@@ -2,8 +2,8 @@
   "schema": "lfs-willow-guild-registry-v1",
   "project_id": "PA-14",
   "capsule_id": "willow-desktop-pet",
-  "total_capsules": 28,
-  "capsule_count": 28,
+  "total_capsules": 29,
+  "capsule_count": 29,
   "capsules": [
     {
       "capsule_id": "willow-guild-aegis-valkyrie-crest",
@@ -184,6 +184,24 @@
       "file": "content/capsules/willow-guild-boss-weekly-syzygy-colossus.json",
       "path": "content/capsules/willow-guild-boss-weekly-syzygy-colossus.json",
       "sha256": "1b7222e87524ca7fc7592a2f395d248d758a2ee95b5907d9fba988f3c1010f02"
+    },
+    {
+      "capsule_id": "willow-guild-solarpunk-relic-013",
+      "title": "Solarpunk Relic 013",
+      "capsule_type": "wardrobe_gear",
+      "slot": "back_accessory",
+      "rig_socket": "BackMountSocket",
+      "style_theme": "botanical-fae",
+      "enclave_emotion_id": "enclave_08_terra",
+      "cost_rupees": 250,
+      "frontier_cost": 16,
+      "practice_avenue": "resonance",
+      "mastery_ap_required": 140,
+      "ability_id": "ability_genesis_dew_mend",
+      "encounter_tier": "wardrobe_gear",
+      "file": "content/capsules/willow-guild-solarpunk-relic-013.json",
+      "path": "content/capsules/willow-guild-solarpunk-relic-013.json",
+      "sha256": "aaaa7136d1acf2c7d4e720f39b026b5cbba2b74f4e6249af9e0bc1aeb0bfb420"
     },
     {
       "capsule_id": "willow-guild-astral-clockwork-chassis-dress-009",
